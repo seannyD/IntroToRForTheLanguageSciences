@@ -26,12 +26,12 @@ You'll need to:
 Here's my plot, with a legend for reference.  Click on the `code` button to the right to reveal one possible answer.
 
 ```{r warning=FALSE, message=FALSE}
-setwd("~/Documents/Teaching/JenaSpringSchool/org/spring-school/IntroToR")
+setwd("~/Documents/Teaching/CARDIFF/RCourse/IntroToR/analysis/")
 
 library(maps)
 
 # state what file and variable I'm using
-filename <- "data/WALS_ObjectVerbOrder.csv"
+filename <- "../data/WALS_ObjectVerbOrder.csv"
 
 #Load data
 d = read.csv(filename, stringsAsFactors = F)

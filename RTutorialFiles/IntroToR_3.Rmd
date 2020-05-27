@@ -9,26 +9,87 @@ output:
 
 # Reading data from a csv file
 
-In this tutorial, we'll load some data from a file. 
+In this tutorial, we'll load some data from a file. This is as easy as running one line of code, referring to the location of the file on your computer:
 
-Make a new R script file in RStudio, and copy and paste some of the commands below.  To run a line from the script, place the cursor on the line and hit Control + Enter.
+```{r eval=F}
+d <- read.csv("~/Desktop/WALS_WordOrder.csv")
+```
+
+**However,** it's important to keep your project files organised - we don't want files from multiple projects all on the desktop! So we'll have to do some preperation, which involves setting up a dedicated folder for your project and then telling R that we've done this.
+
+## Getting the data
+
+First, create a folder on your computer to store data and scripts for this tutorial. I've put mine in the folder "~/Documents/Teaching/CARDIFF/RCourse/IntroToR". Inside this folder create:
+
+-  A folder called "data" to store data files.
+-  A folder called "analysis" to store scripts.
+-  A folder called "results" to store results.
+
+Next, download the data files:
+
+-  The file <a href="https://raw.githubusercontent.com/seannyD/IntroToRForTheLanguageSciences/master/data/WALS_WordOrder.csv" download>WALS_WordOrder.csv</a>.  
+-  The file <a href="https://raw.githubusercontent.com/seannyD/IntroToRForTheLanguageSciences/master/data/Glottolog_Data.csv" download>Glottolog_Data.csv</a>.
+
+(these files come from [this GitHub repository](https://github.com/seannyD/IntroToRForTheLanguageSciences/tree/master/data))
+
+Put the files in the folder called "data".
+
+## Setting the working directory
+
+Make a new R script file in RStudio (File > New File > R script).
 
 When we read data, we need to tell R where the files are stored.  The first step is usually to set the **working directory**.  This sets the folder that R will look in to find data, and to write files to.
 
-Set the working directory using the function `setwd`. I've set up a folder for this course:
+We want to set the working directory to our **analysis** folder, because that's where we'll save our scripts. 
+
+The first line of your script will set the working directory. You can do this using the function `setwd`. This is a function that takes one argument: the location of the folder you want to use as the working directory.  In the code below, I've set this to my particular location, you should adjust this to point to your **analysis** folder:
 
 ```{r eval=F}
-setwd("~/Documents/Teaching/CARDIFF/RCourse/IntroToR")
+setwd("~/Documents/Teaching/CARDIFF/RCourse/IntroToR/analysis")
 ```
 
-Next, we can read in a csv file to an object called a **data frame**.  
+-  Add this line of code to your script.
+-  Adjust the location it to point to your **analysis** folder.
+-  Run this line in the console. To run a line from the script, place the cursor on the line and press the "Run" button in the top right, or press Control + Enter (or Command + Enter on a Mac).
 
-**WARNING**: by default, read.csv converts some strings to *factors*, which can complicate things later on.  For now, we'll turn this off by using the `stringsAsFactors` argument.
+If it worked, you should see no complaints. 
+
+## Errors {.tabset .tabset-fade .tabset-pills} 
+
+### Errors
+If it didn't work, you might get an error. Click on the tabs to get hints.
+
+### cannot change working directory
+If the error is "cannot change working directory", then you might have spelled the location of the folder incorrectly.
+
+### Nothing happens
+If you see a "+" sign next to the cursor, did you include both the opening and the closing quote marks? Both the opening and the closing parentheses? If not, click inside the console window, and press the Escape key to cancel the current command. Adjust your code and try again.
+
+### cound not find function
+If you get an error "could not find function", then did you spell 'setwd' correctly?
+
+### Nothing works!
+If you can't get this to work, use the following line of code to read the file directly from the web, and skip to section 1.5:
+
+```{r eval=F}
+d <- read.csv("https://raw.githubusercontent.com/seannyD/IntroToRForTheLanguageSciences/master/data/WALS_WordOrder.csv", stringsAsFactors = F)
+```
+
+
+
+## Reading the data
+
+Now **save your script** to your **analysis** folder, named something like "part3.R".
+
+Next, we can read in a csv file to an object called a **data frame**. Copy this line into your script, then run it in the console.
 
 ```{r}
-setwd("~/Documents/Teaching/CARDIFF/RCourse/IntroToR")
-d <- read.csv("data/WALS_WordOrder.csv", stringsAsFactors = F)
+d <- read.csv("../data/WALS_WordOrder.csv", stringsAsFactors = F)
 ```
+
+**NOTE**: by default, read.csv converts some strings to *factors*, which can complicate things later on.  For now, we'll turn this off by using the `stringsAsFactors` argument.
+
+**NOTE**: The "../" part at the beginning of the file location means "look in the folder above this one". The current working directory is inside the analysis folder, and the data we want is in the **data** folder, which is one step above this. So we're saying "go into the parent folder, find the folder called "data", and inside that find the folder called "WALS_WordOrder.csv". This might seem complicated, but now this line of code will work on anyone's computer (if they have the data). We've just made our code more *reproducible*!
 
 It's a good idea to check how big the data frame is, using `dim` (for 'dimensions'):
 
@@ -183,8 +244,7 @@ That is, we want to match the glottolog codes in the WALS data to the glottolog 
 > **Task**: Load the data in `data/Glottolog_Data.csv` into a data frame called glottoData.
 
 ```{r include=FALSE ,echo=c(2)}
-setwd("~/Documents/Teaching/JenaSpringSchool/org/spring-school/IntroToR")
-glottoData <- read.csv("data/Glottolog_Data.csv", stringsAsFactors = F)
+glottoData <- read.csv("../data/Glottolog_Data.csv", stringsAsFactors = F)
 ```
 
 > **Task** What are the names and formats of the variables in glottoData?

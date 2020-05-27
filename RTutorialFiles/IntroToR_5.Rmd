@@ -1,5 +1,5 @@
 ---
-title: "QMSS R Tutorial Part 5: Missing values"
+title: "R Tutorial Part 5: Missing values"
 output:
   html_document:
     toc: true
@@ -65,12 +65,13 @@ Suddenly, y2 includes NA values!
 
 # Data with NA values
 
-In the previous data sets we looked at, there were no missing data.  The file *WALS_ObjectVerbOrder.csv* does contain missing values.  Let's load it:
+In the previous data sets we looked at, there were no missing data. Let's load a file with some missing data. Download <a href="https://raw.githubusercontent.com/seannyD/IntroToRForTheLanguageSciences/master/data/WALS_ObjectVerbOrder.csv" download>this file (WALS_ObjectVerbOrder.csv)</a> into your **data** folder.
+
+This file *WALS_ObjectVerbOrder.csv* contains missing values. Create a new script called "part5.R". Now load the data, like before:
 
 ```{r echo=c(2:5)}
-setwd("~/Documents/Teaching/JenaSpringSchool/org/spring-school/IntroToR")
-
-d = read.csv("data/WALS_ObjectVerbOrder.csv", stringsAsFactors = F)
+setwd("~/Documents/Teaching/CARDIFF/RCourse/IntroToR/analysis/")
+d = read.csv("../data/WALS_ObjectVerbOrder.csv", stringsAsFactors = F)
 dim(d)
 head(d)
 ```

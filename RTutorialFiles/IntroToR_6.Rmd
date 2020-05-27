@@ -1,5 +1,5 @@
 ---
-title: "QMSS R Tutorial Part 6: if, for and lists"
+title: "R Tutorial Part 6: if, for and lists"
 output:
   html_document:
     toc: true

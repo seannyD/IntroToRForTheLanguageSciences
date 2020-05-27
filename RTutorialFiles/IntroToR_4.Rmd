@@ -8,14 +8,16 @@ output:
 ---
 
 # Basic stats
-In the last section, we used a database of word orders.  We'll use that again here:
+In the last section, we used a database of word orders.  We'll use that again here. Make a new R script in your **analysis** folder and copy this code in:
 
 ```{r}
-setwd("~/Documents/Teaching/JenaSpringSchool/org/spring-school/IntroToR")
-d <- read.csv("data/WALS_WordOrder.csv", stringsAsFactors = F)
-glottoData <- read.csv("data/Glottolog_Data.csv", stringsAsFactors = F)
+setwd("~/Documents/Teaching/CARDIFF/RCourse/IntroToR/analysis")
+d <- read.csv("../data/WALS_WordOrder.csv", stringsAsFactors = F)
+glottoData <- read.csv("../data/Glottolog_Data.csv", stringsAsFactors = F)
 d2 <- merge(d, glottoData, by.x='glottocode', by.y='glotto.code')
 ```
+
+Run these lines to check that they work.
 
 The data frame `d2` now includes variables **latitude** and **family**.
 
@@ -200,9 +202,11 @@ Colours in R can be specified using:
 
 You can write plots to a pdf using the function `pdf`.  Add the `pdf` funciton before the first plotting command, then `dev.off()` to stop writing to the file.
 
+We're writing out data to a file called "myMap.pdf" inside out 'results' folder:
+
 ```{r eval=F}
 # start writing
-pdf(file="data/myMap.pdf", width= 7, height = 7)
+pdf(file="../results/myMap.pdf", width= 7, height = 7)
   # draw a map of the world
   map() 
   # add locations of languages
