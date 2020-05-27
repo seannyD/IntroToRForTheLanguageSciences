@@ -259,4 +259,4 @@ When trying to make a new variable in a data frame, the code on the right create
 
 Go to the [next tutorial](IntroToR_3.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

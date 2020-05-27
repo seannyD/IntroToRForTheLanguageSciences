@@ -1579,7 +1579,7 @@ div.tocify {
 <p>Next, we can read in a csv file to an object called a <strong>data frame</strong>. Copy this line into your script, then run it in the console.</p>
 <pre class="r"><code>d &lt;- read.csv(&quot;../data/WALS_WordOrder.csv&quot;, stringsAsFactors = F)</code></pre>
 <p><strong>NOTE</strong>: by default, read.csv converts some strings to <em>factors</em>, which can complicate things later on. For now, we’ll turn this off by using the <code>stringsAsFactors</code> argument.</p>
-<p><strong>NOTE</strong>: The “../” part at the beginning of the file location means “look in the folder above this one”. The current working directory is inside the analysis folder, and the data we want is in the <strong>data</strong> folder, which is one step above this. So we’re saying “go into the parent folder, find the folder called”data“, and inside that find the folder called”WALS_WordOrder.csv&quot;. This might seem complicated, but now this line of code will work on anyone’s computer (if they have the data). We’ve just made our code more <em>reproducible</em>!</p>
+<p><strong>NOTE</strong>: The path is not the full location of the file, it is a <em>relative path</em>. The current working directory is inside the analysis folder, and the data we want is in the <strong>data</strong> folder, which is one step above this (<em>relative</em> to the working directory). The “../” part at the beginning of the file means “look in the folder above this one, find the folder called”data“, and inside that find the folder called”WALS_WordOrder.csv&quot;&quot;. This might seem complicated, but now this line of code will work on anyone’s computer (if they have the data). We’ve just made our code more <em>reproducible</em>!</p>
 <p>It’s a good idea to check how big the data frame is, using <code>dim</code> (for ‘dimensions’):</p>
 <pre class="r"><code>dim(d)</code></pre>
 <pre><code>## [1] 940   7</code></pre>
@@ -1822,7 +1822,7 @@ head(d2)</code></pre>
 </blockquote>
 <hr />
 <p>Go to the <a href="IntroToR_4.html">next tutorial</a></p>
-<p>Back to the <a href="../IntroToR.html">index</a></p>
+<p>Back to the <a href="../index.html">index</a></p>
 </div>
 </div>
 </div>

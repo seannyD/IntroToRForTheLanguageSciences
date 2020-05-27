@@ -54,4 +54,4 @@ While this can be convenient, it's not recommended.  If an object is required by
 
 Go to the [next tutorial](IntroToR_8.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

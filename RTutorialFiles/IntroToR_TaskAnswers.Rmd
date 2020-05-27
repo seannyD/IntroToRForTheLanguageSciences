@@ -64,7 +64,7 @@ table(d[northernHemisphere,]$BasicWordOrder)
 > **Task**: Load the data in `data/Glottolog_Data.csv` into a data frame called glottoData.
 
 ```{r eval=FALSE}
-glottoData <- read.csv("data/Glottolog_Data.csv", stringsAsFactors = F)
+glottoData <- read.csv("../data/Glottolog_Data.csv", stringsAsFactors = F)
 ```
 
 > **Task** What are the names and formats of the variables in glottoData?

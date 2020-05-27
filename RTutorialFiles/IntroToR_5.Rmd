@@ -138,4 +138,4 @@ c(x[3:18], "Batman")
 
 Go to the [next tutorial](IntroToR_6.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

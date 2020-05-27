@@ -181,10 +181,10 @@ First we load and merge our data, then filter out all except languages with VOS 
 
 ```{r}
 # set working directory
-setwd("~/Documents/Teaching/JenaSpringSchool/org/spring-school/IntroToR")
+setwd("~/Documents/Teaching/CARDIFF/RCourse/IntroToR/analysis/")
 # load data
-d <- read.csv("data/WALS_WordOrder.csv", stringsAsFactors = F)
-glottoData <- read.csv("data/Glottolog_Data.csv", stringsAsFactors = F)
+d <- read.csv("../data/WALS_WordOrder.csv", stringsAsFactors = F)
+glottoData <- read.csv("../data/Glottolog_Data.csv", stringsAsFactors = F)
 # merge two data frames
 d <- merge(d, glottoData, by.x='glottocode', by.y='glotto.code')
 

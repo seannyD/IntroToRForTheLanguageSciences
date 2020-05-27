@@ -56,4 +56,4 @@ legend(-45,-40, legend=orderTypes, col=colours, pch=16, ncol=2)
 
 ----------
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

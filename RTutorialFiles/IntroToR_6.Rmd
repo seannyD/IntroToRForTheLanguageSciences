@@ -144,4 +144,4 @@ This returns a list where each member of the list contains the mean score for th
 
 Go to the [next tutorial](IntroToR_7.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

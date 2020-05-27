@@ -95,4 +95,4 @@ Please listen to either Yoko Kanno or your favourite Glitch Hop band.
 
 Go to the [next tutorial](IntroToR_1.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

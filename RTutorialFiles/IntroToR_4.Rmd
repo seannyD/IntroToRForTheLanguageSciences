@@ -224,4 +224,4 @@ dev.off()
 
 Go to the [next tutorial](IntroToR_5.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

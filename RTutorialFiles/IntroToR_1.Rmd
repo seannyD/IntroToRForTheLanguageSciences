@@ -277,4 +277,4 @@ nums[nchar(friends)>4]
 
 Go to the [next tutorial](IntroToR_2.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)

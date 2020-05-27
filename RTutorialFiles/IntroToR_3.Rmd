@@ -89,7 +89,7 @@ d <- read.csv("../data/WALS_WordOrder.csv", stringsAsFactors = F)
 
 **NOTE**: by default, read.csv converts some strings to *factors*, which can complicate things later on.  For now, we'll turn this off by using the `stringsAsFactors` argument.
 
-**NOTE**: The "../" part at the beginning of the file location means "look in the folder above this one". The current working directory is inside the analysis folder, and the data we want is in the **data** folder, which is one step above this. So we're saying "go into the parent folder, find the folder called "data", and inside that find the folder called "WALS_WordOrder.csv". This might seem complicated, but now this line of code will work on anyone's computer (if they have the data). We've just made our code more *reproducible*!
+**NOTE**: The path is not the full location of the file, it is a *relative path*. The current working directory is inside the analysis folder, and the data we want is in the **data** folder, which is one step above this (*relative* to the working directory).  The "../" part at the beginning of the file means "look in the folder above this one, find the folder called "data", and inside that find the folder called "WALS_WordOrder.csv"".  This might seem complicated, but now this line of code will work on anyone's computer (if they have the data). We've just made our code more *reproducible*!
 
 It's a good idea to check how big the data frame is, using `dim` (for 'dimensions'):
 
@@ -340,4 +340,4 @@ sum(d2$Name!=d2$glotto.name)
 
 Go to the [next tutorial](IntroToR_4.html)
 
-Back to the [index](../IntroToR.html)
+Back to the [index](../index.html)
