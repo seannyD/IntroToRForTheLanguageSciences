@@ -5,3 +5,5 @@ This is a basic introduction to programming in R. While there are many courses o
 There are 8 parts, with various tasks to check your understanding, then a final task. If you've used a programming language before, then you can probably complete this course in a few hours. If you're new to programming, you might need a day to complete. If you've used R before, you could skip to the final task. If you can complete this, then you already know what this tutorial has to offer.
 
 Open the index page in a browser to start.
+
+These pages are hosted [https://correlation-machine.com/RCourse/](https://correlation-machine.com/RCourse/)
