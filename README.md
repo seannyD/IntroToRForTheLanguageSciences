@@ -6,4 +6,4 @@ There are 8 parts, with various tasks to check your understanding, then a final 
 
 Open the index page in a browser to start.
 
-These pages are hosted [https://correlation-machine.com/RCourse/](https://correlation-machine.com/RCourse/)
+These pages are hosted here: [https://correlation-machine.com/RCourse/](https://correlation-machine.com/RCourse/)
