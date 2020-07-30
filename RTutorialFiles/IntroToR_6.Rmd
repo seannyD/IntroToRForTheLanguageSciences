@@ -5,6 +5,8 @@ output:
     toc: true
     toc_float: true
     number_sections: true
+    includes:
+      before_body: header.htm
 ---
 
 R includes some basic programming tools like `if` and `for` statements, and another data structure called a "list".  These aren't always necessary, but sometimes come in helpful.

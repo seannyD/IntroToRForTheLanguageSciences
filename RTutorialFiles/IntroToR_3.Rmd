@@ -5,6 +5,8 @@ output:
     toc: true
     toc_float: true
     number_sections: true
+    includes:
+      before_body: header.htm
 ---
 
 # Reading data from a csv file
@@ -25,7 +27,7 @@ First, create a folder on your computer to store data and scripts for this tutor
 -  A folder called "analysis" to store scripts.
 -  A folder called "results" to store results.
 
-Next, download the data files:
+Next, download the data files (you may need to right-click these links and choose "save target as"):
 
 -  The file <a href="https://raw.githubusercontent.com/seannyD/IntroToRForTheLanguageSciences/master/data/WALS_WordOrder.csv" download>WALS_WordOrder.csv</a>.  
 -  The file <a href="https://raw.githubusercontent.com/seannyD/IntroToRForTheLanguageSciences/master/data/Glottolog_Data.csv" download>Glottolog_Data.csv</a>.

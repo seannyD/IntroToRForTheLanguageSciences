@@ -1,6 +1,9 @@
 ---
 title: "QMSS R Tutorial: Answers to tasks"
-output: html_document
+output: 
+  html_document:
+    includes:
+      before_body: header.htm
 ---
 
 
@@ -86,9 +89,9 @@ sum(d2$Name!=d2$glotto.name)
 
 
 ```{r eval=F}
-langFamLatitudeMEAN<- tapply(d2$latitude, d2$glotto.family, mean)
-langFamLatitudeMEAN.sorted <- sort(langFamLatitudeMEAN, decreasing = TRUE)
-head(langFamLatitudeMEAN.sorted)
+wordOrderLatitudeMEAN<- tapply(d2$latitude, d2$BasicWordOrder, mean)
+wordOrderLatitudeMEAN.sorted <- sort(wordOrderLatitudeMEAN, decreasing = TRUE)
+head(wordOrderLatitudeMEAN.sorted)
 ```
 
 

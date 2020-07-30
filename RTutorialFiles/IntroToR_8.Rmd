@@ -3,6 +3,8 @@ title: "QMSS R Tutorial Part 8: Final Task"
 output:
   html_document:
     code_folding: hide
+    includes:
+      before_body: header.htm
 ---
 
 If you've followed the previous tutorials, you should be able to complete the task below.  It might be a bit challenging, but try to tackle one part of the task at a time, and make sure your results are the expected ones.

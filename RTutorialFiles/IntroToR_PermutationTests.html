@@ -1503,6 +1503,39 @@ div.tocify {
 
 
 
+<div style="width:100%">
+<div class="row">
+<div class="col-xs-4">
+<h4><a class="button" href="../index.html">Home</a></h4>
+</div>
+<div class="col-xs-4">
+<h4>Intro to R</h4>
+ </div>
+ <div class="col-xs-4">
+ <ul class="nav nav-tabs" role="tablist">
+     <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false">
+          Jump to ... <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+          <li class><a href="../index.html.html">Home</a></li> 
+          <li class><a href="IntroToR_0.html">Part 0</a></li> 
+          <li class><a href="IntroToR_1.html">Part 1</a></li> 
+          <li class><a href="IntroToR_2.html">Part 2</a></li> 
+          <li class><a href="IntroToR_3.html">Part 3</a></li> 
+          <li class><a href="IntroToR_4.html">Part 4</a></li> 
+          <li class><a href="IntroToR_5.html">Part 5</a></li> 
+          <li class><a href="IntroToR_6.html">Part 6</a></li> 
+          <li class><a href="IntroToR_7.html">Part 7</a></li> 
+          <li class><a href="IntroToR_8.html">Part 8</a></li>
+          <li class><a href="../IntroToR_TaskAnswers.html">Answers to tasks</a></li>
+        </ul>
+     </li>
+  </ul>
+</div>
+</div>
+</div>
+<hr>
 
 <div class="fluid-row" id="header">
 
@@ -1520,10 +1553,10 @@ div.tocify {
 <p>With the default settings, it <em>permutes</em> the vector</p>
 <pre class="r"><code>x &lt;- c(1,2,3,4,5,6)
 sample(x)</code></pre>
-<pre><code>## [1] 4 5 1 6 2 3</code></pre>
+<pre><code>## [1] 6 2 3 1 5 4</code></pre>
 <p>Note that, because this is a random process, if we do it again, we get a different answer:</p>
 <pre class="r"><code>sample(x)</code></pre>
-<pre><code>## [1] 2 5 4 3 1 6</code></pre>
+<pre><code>## [1] 5 4 1 2 3 6</code></pre>
 <p>Let’s try a simple test. If we pick two sets of random numbers, they should not be correlated:</p>
 <pre class="r"><code>x &lt;- rnorm(100)
 y &lt;- rnorm(100)

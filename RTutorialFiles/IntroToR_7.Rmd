@@ -5,6 +5,8 @@ output:
     toc: true
     toc_float: true
     number_sections: true
+    includes:
+      before_body: header.htm
 ---
 
 The best way to save results is in universally readable formats, for instance csv files for data or pdf files for graphs (see the previous parts).  However, R does allow saving objects directy, which is sometimes useful with very complex data types.

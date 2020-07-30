@@ -1,0 +1,11 @@
+ I've got stuck on this one though:
+	ask: make a list of booleans where the items are TRUE if each corresponding item of nums is either 5 or 1.
+	I've got nums == 1  which creates a boolean for 1 ok but can't figure out how to add the 5 in.
+	I've tried nums == (1, 5) and nums == [1,5] and nums == 1,5 and nums == 1:5
+	
+	
+Include task at end of part 4.
+
+
+Do I introduce the 'names' function anywhere?
+

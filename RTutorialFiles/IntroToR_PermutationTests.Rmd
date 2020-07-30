@@ -5,6 +5,8 @@ output:
     number_sections: yes
     toc: yes
     toc_float: yes
+    includes:
+      before_body: header.htm
   pdf_document:
     toc: yes
 ---

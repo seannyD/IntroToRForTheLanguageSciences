@@ -1,0 +1,1791 @@
+"Family","Language","Dialect","ISO","vowel","f1","f2","NumberOfVowels"
+"Tupian","Akuntsu","","???","i",332,1840,5
+"Tupian","Akuntsu","","???","e",516,1846,5
+"Tupian","Akuntsu","","???","a",625,1112,5
+"Tupian","Akuntsu","","???","u",435,943,5
+"AfroAsiatic","Tunisian Arabic","Kairouan","aeb","i",384,2276,3
+"AfroAsiatic","Tunisian Arabic","Kairouan","aeb","æ",557,1732,3
+"AfroAsiatic","Tunisian Arabic","Kairouan","aeb","u",454,840,3
+"NigerCongo","Defaka","","afn","i",363,2113,7
+"NigerCongo","Defaka","","afn","e",418,1917,7
+"NigerCongo","Defaka","","afn","_",446,1866,7
+"NigerCongo","Defaka","","afn","a",751,1446,7
+"NigerCongo","Defaka","","afn","_",542,1144,7
+"NigerCongo","Defaka","","afn","o",423,1064,7
+"NigerCongo","Defaka","","afn","u",344,1022,7
+"IndoEuropean","Afrikaans","","afr","i",270,2325,9
+"IndoEuropean","Afrikaans","","afr","_",355,2150,9
+"IndoEuropean","Afrikaans","","afr","æ",595,1615,9
+"IndoEuropean","Afrikaans","","afr","a",605,1130,9
+"IndoEuropean","Afrikaans","","afr","_",460,860,9
+"IndoEuropean","Afrikaans","","afr","u",310,1110,9
+"IndoEuropean","Afrikaans","","afr","y",250,2080,9
+"IndoEuropean","Afrikaans","","afr","œ",455,1400,9
+"IndoEuropean","Afrikaans","","afr","_",510,1475,9
+"AfroAsiatic","Assyrian Neo-Aramaic","Koine","aii","i",250,2200,6
+"AfroAsiatic","Assyrian Neo-Aramaic","Koine","aii","e",500,1900,6
+"AfroAsiatic","Assyrian Neo-Aramaic","Koine","aii","a",700,1400,6
+"AfroAsiatic","Assyrian Neo-Aramaic","Koine","aii","o",500,1150,6
+"AfroAsiatic","Assyrian Neo-Aramaic","Koine","aii","u",250,950,6
+"AfroAsiatic","Assyrian Neo-Aramaic","Koine","aii","_",350,1800,6
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","i",315,2210,5
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","e",395,1955,5
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","a",630,1280,5
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","o",430,980,5
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","u",375,885,5
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","i",360,2090,3
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","a",620,1325,3
+"AfroAsiatic","Palestinian Arabic","Jordan","ajp","u",420,1080,3
+"NigerCongo","Akan","Kwawu","aka","i",260,2141,9
+"NigerCongo","Akan","Kwawu","aka","_",309,1785,9
+"NigerCongo","Akan","Kwawu","aka","e",311,1875,9
+"NigerCongo","Akan","Kwawu","aka","_",458,1564,9
+"NigerCongo","Akan","Kwawu","aka","a",630,1319,9
+"NigerCongo","Akan","Kwawu","aka","_",524,1108,9
+"NigerCongo","Akan","Kwawu","aka","o",423,1293,9
+"NigerCongo","Akan","Kwawu","aka","_",410,1198,9
+"NigerCongo","Akan","Kwawu","aka","u",306,780,9
+"EskimoAleut","Aleut","","ale","i",340,2350,3
+"EskimoAleut","Aleut","","ale","a",770,1210,3
+"EskimoAleut","Aleut","","ale","u",375,920,3
+"EskimoAleut","Aleut","","ale","i",350,2290,3
+"EskimoAleut","Aleut","","ale","a",630,1540,3
+"EskimoAleut","Aleut","","ale","u",425,920,3
+"IndoEuropean","Gheg Albanian","","aln","i",255,2200,6
+"IndoEuropean","Gheg Albanian","","aln","e",360,2040,6
+"IndoEuropean","Gheg Albanian","","aln","a",640,1235,6
+"IndoEuropean","Gheg Albanian","","aln","o",490,950,6
+"IndoEuropean","Gheg Albanian","","aln","u",295,700,6
+"IndoEuropean","Gheg Albanian","","aln","y",255,2000,6
+"IndoEuropean","Gheg Albanian","","aln","_",300,2215,6
+"IndoEuropean","Gheg Albanian","","aln","_",467,1875,6
+"IndoEuropean","Gheg Albanian","","aln","a",640,1415,6
+"IndoEuropean","Gheg Albanian","","aln","_",490,1150,6
+"IndoEuropean","Gheg Albanian","","aln","_",340,1025,6
+"IndoEuropean","Gheg Albanian","","aln","_",307,1877,6
+"AfroAsiatic","Amharic","Standard","amh","i",271,2145,7
+"AfroAsiatic","Amharic","Standard","amh","e",423,1965,7
+"AfroAsiatic","Amharic","Standard","amh","a",696,1255,7
+"AfroAsiatic","Amharic","Standard","amh","o",378,1010,7
+"AfroAsiatic","Amharic","Standard","amh","u",291,813,7
+"AfroAsiatic","Amharic","Standard","amh","_",312,1483,7
+"AfroAsiatic","Amharic","Standard","amh","_",466,1502,7
+"Austronesian","Amis","","ami","i",355,2325,3
+"Austronesian","Amis","","ami","a",770,1335,3
+"Austronesian","Amis","","ami","u",500,1010,3
+"OtoManguean","Amuzgo","Guerrero","amu","i",246,2221,7
+"OtoManguean","Amuzgo","Guerrero","amu","e",410,1993,7
+"OtoManguean","Amuzgo","Guerrero","amu","æ",620,1722,7
+"OtoManguean","Amuzgo","Guerrero","amu","a",727,1299,7
+"OtoManguean","Amuzgo","Guerrero","amu","_",590,965,7
+"OtoManguean","Amuzgo","Guerrero","amu","o",392,851,7
+"OtoManguean","Amuzgo","Guerrero","amu","u",311,850,7
+"NaDene","Apache","Western","apw","i",339,2092,4
+"NaDene","Apache","Western","apw","e",510,1754,4
+"NaDene","Apache","Western","apw","a",654,1197,4
+"NaDene","Apache","Western","apw","o",438,924,4
+"NaDene","Apache","Western","apw","i",438,1749,4
+"NaDene","Apache","Western","apw","e",521,1758,4
+"NaDene","Apache","Western","apw","a",616,1372,4
+"NaDene","Apache","Western","apw","o",481,1077,4
+"IndoEuropean","Aragonese","Chistabino","arg","i",340,2150,5
+"IndoEuropean","Aragonese","Chistabino","arg","e",475,1900,5
+"IndoEuropean","Aragonese","Chistabino","arg","a",740,1425,5
+"IndoEuropean","Aragonese","Chistabino","arg","o",480,860,5
+"IndoEuropean","Aragonese","Chistabino","arg","u",385,775,5
+"AfroAsiatic","Moroccan Arabic","","ary","i",290,2215,3
+"AfroAsiatic","Moroccan Arabic","","ary","a",645,1135,3
+"AfroAsiatic","Moroccan Arabic","","ary","u",365,765,3
+"AfroAsiatic","Egyptian Arabic","","arz","i",240,2150,5
+"AfroAsiatic","Egyptian Arabic","","arz","e",388,2209,5
+"AfroAsiatic","Egyptian Arabic","","arz","a",650,1930,5
+"AfroAsiatic","Egyptian Arabic","","arz","o",419,896,5
+"AfroAsiatic","Egyptian Arabic","","arz","u",350,670,5
+"AfroAsiatic","Egyptian Arabic","","arz","e",426,1894,3
+"AfroAsiatic","Egyptian Arabic","","arz","a",618,1568,3
+"AfroAsiatic","Egyptian Arabic","","arz","o",429,1163,3
+"IndoEuropean","Bavarian","","bar","i",251,2188,13
+"IndoEuropean","Bavarian","","bar","e",332,2084,13
+"IndoEuropean","Bavarian","","bar","_",379,2081,13
+"IndoEuropean","Bavarian","","bar","æ",526,1853,13
+"IndoEuropean","Bavarian","","bar","a",711,1319,13
+"IndoEuropean","Bavarian","","bar","_",566,997,13
+"IndoEuropean","Bavarian","","bar","_",418,841,13
+"IndoEuropean","Bavarian","","bar","o",365,897,13
+"IndoEuropean","Bavarian","","bar","u",267,710,13
+"IndoEuropean","Bavarian","","bar","y",247,1875,13
+"IndoEuropean","Bavarian","","bar","ø",331,1709,13
+"IndoEuropean","Bavarian","","bar","œ",383,1681,13
+"IndoEuropean","Bavarian","","bar","_",543,1551,13
+"Austronesian","Toba Batak","","bbc","i",300,2010,5
+"Austronesian","Toba Batak","","bbc","e",395,1915,5
+"Austronesian","Toba Batak","","bbc","a",690,1360,5
+"Austronesian","Toba Batak","","bbc","o",385,990,5
+"Austronesian","Toba Batak","","bbc","u",325,1020,5
+"NaDene","Babine","Witsuwit'en","bcr","i",306,2087,7
+"NaDene","Babine","Witsuwit'en","bcr","e",410,1986,7
+"NaDene","Babine","Witsuwit'en","bcr","_",619,1685,7
+"NaDene","Babine","Witsuwit'en","bcr","a",715,1488,7
+"NaDene","Babine","Witsuwit'en","bcr","o",484,1056,7
+"NaDene","Babine","Witsuwit'en","bcr","u",334,1196,7
+"NaDene","Babine","Witsuwit'en","bcr","_",528,1572,7
+"NigerCongo","Oroko","Londo","bdu","i",286,1843,7
+"NigerCongo","Oroko","Londo","bdu","e",344,1800,7
+"NigerCongo","Oroko","Londo","bdu","_",477,1613,7
+"NigerCongo","Oroko","Londo","bdu","a",668,1393,7
+"NigerCongo","Oroko","Londo","bdu","_",530,1086,7
+"NigerCongo","Oroko","Londo","bdu","o",360,936,7
+"NigerCongo","Oroko","Londo","bdu","u",323,1038,7
+"IndoEuropean","Bengali","Bangladesh","ben","i",357,2059,7
+"IndoEuropean","Bengali","Bangladesh","ben","e",481,1807,7
+"IndoEuropean","Bengali","Bangladesh","ben","æ",599,1619,7
+"IndoEuropean","Bengali","Bangladesh","ben","a",694,1371,7
+"IndoEuropean","Bengali","Bangladesh","ben","_",586,1109,7
+"IndoEuropean","Bengali","Bangladesh","ben","o",423,1034,7
+"IndoEuropean","Bengali","Bangladesh","ben","u",347,1001,7
+"NiloSaharan","Bedjond","Beda","bjv","i",305,2091,6
+"NiloSaharan","Bedjond","Beda","bjv","e",401,1565,6
+"NiloSaharan","Bedjond","Beda","bjv","a",700,1340,6
+"NiloSaharan","Bedjond","Beda","bjv","_",558,1086,6
+"NiloSaharan","Bedjond","Beda","bjv","o",386,853,6
+"NiloSaharan","Bedjond","Beda","bjv","u",305,721,6
+"Arawakan","Banawa","","bnh","i",311,2320,4
+"Arawakan","Banawa","","bnh","e",591,1869,4
+"Arawakan","Banawa","","bnh","a",758,1422,4
+"Arawakan","Banawa","","bnh","u",396,883,4
+"Witotoan","Bora","","boa","i",324,2257,6
+"Witotoan","Bora","","boa","e",494,2138,6
+"Witotoan","Bora","","boa","a",808,1431,6
+"Witotoan","Bora","","boa","o",552,912,6
+"Witotoan","Bora","","boa","_",396,1781,6
+"Witotoan","Bora","","boa","_",385,1488,6
+"NigerCongo","Tuwuli","","bov","i",288,2145,7
+"NigerCongo","Tuwuli","","bov","e",341,2084,7
+"NigerCongo","Tuwuli","","bov","_",493,1906,7
+"NigerCongo","Tuwuli","","bov","a",784,1412,7
+"NigerCongo","Tuwuli","","bov","_",574,1044,7
+"NigerCongo","Tuwuli","","bov","o",373,861,7
+"NigerCongo","Tuwuli","","bov","u",315,985,7
+"IndoEuropean","Breton","Argol","bre","i",275,2100,9
+"IndoEuropean","Breton","Argol","bre","e",350,2000,9
+"IndoEuropean","Breton","Argol","bre","_",650,1600,9
+"IndoEuropean","Breton","Argol","bre","a",725,1300,9
+"IndoEuropean","Breton","Argol","bre","o",550,950,9
+"IndoEuropean","Breton","Argol","bre","o_",375,850,9
+"IndoEuropean","Breton","Argol","bre","u",325,900,9
+"IndoEuropean","Breton","Argol","bre","y",300,1750,9
+"IndoEuropean","Breton","Argol","bre","ø",525,1575,9
+"AustroAsiatic","Brou","Eastern","bru","i",400,2560,10
+"AustroAsiatic","Brou","Eastern","bru","e",600,2380,10
+"AustroAsiatic","Brou","Eastern","bru","_",800,2120,10
+"AustroAsiatic","Brou","Eastern","bru","a",1120,1840,10
+"AustroAsiatic","Brou","Eastern","bru","_",920,1400,10
+"AustroAsiatic","Brou","Eastern","bru","_",760,1040,10
+"AustroAsiatic","Brou","Eastern","bru","o",520,840,10
+"AustroAsiatic","Brou","Eastern","bru","u",400,880,10
+"AustroAsiatic","Brou","Eastern","bru","_",440,1280,10
+"AustroAsiatic","Brou","Eastern","bru","_",640,1360,10
+"AustroAsiatic","Brou","Eastern","bru","i",400,2560,10
+"AustroAsiatic","Brou","Eastern","bru","e",600,2320,10
+"AustroAsiatic","Brou","Eastern","bru","_",880,2000,10
+"AustroAsiatic","Brou","Eastern","bru","a",1120,1760,10
+"AustroAsiatic","Brou","Eastern","bru","_",1000,1400,10
+"AustroAsiatic","Brou","Eastern","bru","_",760,1080,10
+"AustroAsiatic","Brou","Eastern","bru","o",560,840,10
+"AustroAsiatic","Brou","Eastern","bru","u",400,840,10
+"AustroAsiatic","Brou","Eastern","bru","_",440,1200,10
+"AustroAsiatic","Brou","Eastern","bru","_",800,1160,10
+"SinoTibetan","Bodo","","brx","i",265,2390,6
+"SinoTibetan","Bodo","","brx","e",520,1975,6
+"SinoTibetan","Bodo","","brx","a",640,1270,6
+"SinoTibetan","Bodo","","brx","o",535,1150,6
+"SinoTibetan","Bodo","","brx","u",285,1210,6
+"SinoTibetan","Bodo","","brx","_",365,1265,6
+"IndoEuropean","Bulgarian","","bul","i",261,1991,6
+"IndoEuropean","Bulgarian","","bul","e",419,1684,6
+"IndoEuropean","Bulgarian","","bul","a",575,1072,6
+"IndoEuropean","Bulgarian","","bul","o",383,807,6
+"IndoEuropean","Bulgarian","","bul","u",283,667,6
+"IndoEuropean","Bulgarian","","bul","_",370,1144,6
+"NigerCongo","Viri","","bvi","i",332,2094,6
+"NigerCongo","Viri","","bvi","_",516,1813,6
+"NigerCongo","Viri","","bvi","a",603,1367,6
+"NigerCongo","Viri","","bvi","_",498,995,6
+"NigerCongo","Viri","","bvi","_",352,772,6
+"NigerCongo","Viri","","bvi","u",318,853,6
+"Australian","Burarra","","bvr","i",420,1915,5
+"Australian","Burarra","","bvr","e",640,1690,5
+"Australian","Burarra","","bvr","a",770,1400,5
+"Australian","Burarra","","bvr","o",635,1150,5
+"Australian","Burarra","","bvr","u",465,1110,5
+"NigerCongo","Dibole","Dzeke","bvx","i",264,2005,7
+"NigerCongo","Dibole","Dzeke","bvx","e",333,1989,7
+"NigerCongo","Dibole","Dzeke","bvx","_",511,1912,7
+"NigerCongo","Dibole","Dzeke","bvx","a",750,1422,7
+"NigerCongo","Dibole","Dzeke","bvx","_",577,1027,7
+"NigerCongo","Dibole","Dzeke","bvx","o",370,850,7
+"NigerCongo","Dibole","Dzeke","bvx","u",313,818,7
+"IndoEuropean","Catalan","Eastern","cat","i",245,2273,7
+"IndoEuropean","Catalan","Eastern","cat","e",362,2161,7
+"IndoEuropean","Catalan","Eastern","cat","_",543,2045,7
+"IndoEuropean","Catalan","Eastern","cat","a",860,1344,7
+"IndoEuropean","Catalan","Eastern","cat","_",634,863,7
+"IndoEuropean","Catalan","Eastern","cat","o",422,717,7
+"IndoEuropean","Catalan","Eastern","cat","u",268,633,7
+"Mayan","Chontal","Oaxaca","chf","i",434,2388,5
+"Mayan","Chontal","Oaxaca","chf","e",536,2101,5
+"Mayan","Chontal","Oaxaca","chf","a",777,1558,5
+"Mayan","Chontal","Oaxaca","chf","o",489,948,5
+"Mayan","Chontal","Oaxaca","chf","u",414,810,5
+"Iroquonian","Cherokee","Western","chr","i",308,2262,6
+"Iroquonian","Cherokee","Western","chr","e",439,2035,6
+"Iroquonian","Cherokee","Western","chr","a",657,1151,6
+"Iroquonian","Cherokee","Western","chr","o",475,897,6
+"Iroquonian","Cherokee","Western","chr","u",339,1404,6
+"Iroquonian","Cherokee","Western","chr","_",526,1466,6
+"Iroquonian","Cherokee","Western","chr","i",321,2273,6
+"Iroquonian","Cherokee","Western","chr","e",438,2054,6
+"Iroquonian","Cherokee","Western","chr","a",634,1229,6
+"Iroquonian","Cherokee","Western","chr","o",425,941,6
+"Iroquonian","Cherokee","Western","chr","u",371,1808,6
+"Iroquonian","Cherokee","Western","chr","_",527,1406,6
+"Altaic","Chuvash","Northern","chv","i",330,1990,9
+"Altaic","Chuvash","Northern","chv","_",380,1740,9
+"Altaic","Chuvash","Northern","chv","_",375,1885,9
+"Altaic","Chuvash","Northern","chv","a",675,1265,9
+"Altaic","Chuvash","Northern","chv","o",425,675,9
+"Altaic","Chuvash","Northern","chv","u",350,625,9
+"Altaic","Chuvash","Northern","chv","y",345,1800,9
+"Altaic","Chuvash","Northern","chv","_",350,1315,9
+"Altaic","Chuvash","Northern","chv","_",500,1055,9
+"Muskogean","Chickasaw","","cic","i",389,1984,3
+"Muskogean","Chickasaw","","cic","a",676,1365,3
+"Muskogean","Chickasaw","","cic","o",430,1005,3
+"Muskogean","Chickasaw","","cic","i",401,1880,3
+"Muskogean","Chickasaw","","cic","a",587,1500,3
+"Muskogean","Chickasaw","","cic","o",460,1314,3
+"SinoTibetan","Mandarin","Standard","cmn","i",246,2145,5
+"SinoTibetan","Mandarin","Standard","cmn","a",804,1228,5
+"SinoTibetan","Mandarin","Standard","cmn","u",264,580,5
+"SinoTibetan","Mandarin","Standard","cmn","y",251,1963,5
+"SinoTibetan","Mandarin","Standard","cmn","_",586,1074,5
+"SinoTibetan","Northern Qiang","Hongyan","cng","i",240,1930,4
+"SinoTibetan","Northern Qiang","Hongyan","cng","a",675,1695,4
+"SinoTibetan","Northern Qiang","Hongyan","cng","u",280,1235,4
+"SinoTibetan","Northern Qiang","Hongyan","cng","_",470,1610,4
+"OtoManguean","Tepetotutla Chinantec","","cnt","i",266,2103,7
+"OtoManguean","Tepetotutla Chinantec","","cnt","e",416,1881,7
+"OtoManguean","Tepetotutla Chinantec","","cnt","a",693,1246,7
+"OtoManguean","Tepetotutla Chinantec","","cnt","o",458,874,7
+"OtoManguean","Tepetotutla Chinantec","","cnt","u",264,722,7
+"OtoManguean","Tepetotutla Chinantec","","cnt","_",283,1328,7
+"OtoManguean","Tepetotutla Chinantec","","cnt","_",446,1425,7
+"AustroAsiatic","Chong","","cog","i",340,2275,9
+"AustroAsiatic","Chong","","cog","e",468,2035,9
+"AustroAsiatic","Chong","","cog","_",653,1850,9
+"AustroAsiatic","Chong","","cog","a",778,1360,9
+"AustroAsiatic","Chong","","cog","_",575,990,9
+"AustroAsiatic","Chong","","cog","o",395,825,9
+"AustroAsiatic","Chong","","cog","u",285,795,9
+"AustroAsiatic","Chong","","cog","_",335,1225,9
+"AustroAsiatic","Chong","","cog","_",453,1275,9
+"AustroAsiatic","Chong","","cog","i",363,2155,9
+"AustroAsiatic","Chong","","cog","e",455,1950,9
+"AustroAsiatic","Chong","","cog","_",655,1750,9
+"AustroAsiatic","Chong","","cog","a",785,1360,9
+"AustroAsiatic","Chong","","cog","_",648,1015,9
+"AustroAsiatic","Chong","","cog","o",508,975,9
+"AustroAsiatic","Chong","","cog","u",363,930,9
+"AustroAsiatic","Chong","","cog","_",380,1230,9
+"AustroAsiatic","Chong","","cog","_",503,1385,9
+"IndoEuropean","Welsh","","cym","i",190,2200,7
+"IndoEuropean","Welsh","","cym","e",300,2025,7
+"IndoEuropean","Welsh","","cym","a",800,1300,7
+"IndoEuropean","Welsh","","cym","o",350,637,7
+"IndoEuropean","Welsh","","cym","u",220,640,7
+"IndoEuropean","Welsh","","cym","_",190,1900,7
+"IndoEuropean","Welsh","","cym","_",400,1075,7
+"IndoEuropean","Welsh","","cym","i",235,2175,7
+"IndoEuropean","Welsh","","cym","e",500,1925,7
+"IndoEuropean","Welsh","","cym","a",760,1225,7
+"IndoEuropean","Welsh","","cym","o",500,850,7
+"IndoEuropean","Welsh","","cym","u",250,725,7
+"IndoEuropean","Welsh","","cym","_",225,1825,7
+"IndoEuropean","Welsh","","cym","_",350,1200,7
+"IndoEuropean","Danish","Standard","dan","i",225,2197,10
+"IndoEuropean","Danish","Standard","dan","e",286,2186,10
+"IndoEuropean","Danish","Standard","dan","_",371,2049,10
+"IndoEuropean","Danish","Standard","dan","a",630,1710,10
+"IndoEuropean","Danish","Standard","dan","_",387,865,10
+"IndoEuropean","Danish","Standard","dan","o",323,623,10
+"IndoEuropean","Danish","Standard","dan","u",257,732,10
+"IndoEuropean","Danish","Standard","dan","y",235,1919,10
+"IndoEuropean","Danish","Standard","dan","ø",289,1671,10
+"IndoEuropean","Danish","Standard","dan","œ",402,1462,10
+"Tsezic","Tsez","Asax","ddo","i",320,2183,5
+"Tsezic","Tsez","Asax","ddo","e",636,1701,5
+"Tsezic","Tsez","Asax","ddo","a",766,1308,5
+"Tsezic","Tsez","Asax","ddo","o",533,1021,5
+"Tsezic","Tsez","Asax","ddo","u",348,937,5
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","i",384,2164,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","_",433,2130,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","e",446,1989,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","_",577,1879,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","a",807,1461,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","_",608,1081,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","o",460,997,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","_",484,925,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","u",377,912,10
+"Niger Congo","Degema","NigerCongo>AtlanticCongo>VoltaCongo>BenueCongo>Edoid","deg","_",755,1431,10
+"IndoEuropean","German","Standard","deu","i",263,2171,8
+"IndoEuropean","German","Standard","deu","e",348,2126,8
+"IndoEuropean","German","Standard","deu","_",482,1902,8
+"IndoEuropean","German","Standard","deu","a",737,1275,8
+"IndoEuropean","German","Standard","deu","o",383,841,8
+"IndoEuropean","German","Standard","deu","u",310,854,8
+"IndoEuropean","German","Standard","deu","y",302,1722,8
+"IndoEuropean","German","Standard","deu","ø",371,1501,8
+"IndoEuropean","Dogri","","dgo","i",287,2203,7
+"IndoEuropean","Dogri","","dgo","e",355,2125,7
+"IndoEuropean","Dogri","","dgo","_",629,1607,7
+"IndoEuropean","Dogri","","dgo","a",687,1131,7
+"IndoEuropean","Dogri","","dgo","_",539,951,7
+"IndoEuropean","Dogri","","dgo","o",365,692,7
+"IndoEuropean","Dogri","","dgo","u",313,660,7
+"IndoEuropean","Dogri","","dgo","_",384,2007,3
+"IndoEuropean","Dogri","","dgo","_",640,1164,3
+"IndoEuropean","Dogri","","dgo","_",364,765,3
+"NiloSaharan","Southern Dinka","","dib","i",198,1853,7
+"NiloSaharan","Southern Dinka","","dib","e",335,1668,7
+"NiloSaharan","Southern Dinka","","dib","_",388,1448,7
+"NiloSaharan","Southern Dinka","","dib","a",520,1103,7
+"NiloSaharan","Southern Dinka","","dib","_",388,755,7
+"NiloSaharan","Southern Dinka","","dib","o",255,648,7
+"NiloSaharan","Southern Dinka","","dib","u",220,635,7
+"NiloSaharan","Didinga","","did","i",359,1861,10
+"NiloSaharan","Didinga","","did","_",447,1857,10
+"NiloSaharan","Didinga","","did","e",460,1769,10
+"NiloSaharan","Didinga","","did","_",553,1769,10
+"NiloSaharan","Didinga","","did","a",786,1452,10
+"NiloSaharan","Didinga","","did","_",658,1183,10
+"NiloSaharan","Didinga","","did","_",499,948,10
+"NiloSaharan","Didinga","","did","o",411,1127,10
+"NiloSaharan","Didinga","","did","_",362,1038,10
+"NiloSaharan","Didinga","","did","u",346,1049,10
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","i",325,2158,7
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","e",447,1932,7
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","_",666,1755,7
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","a",777,1420,7
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","_",648,1184,7
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","o",448,913,7
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","u",346,987,7
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","i",385,1840,6
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","e",479,1665,6
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","a",675,1446,6
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","_",648,1209,6
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","o",490,1098,6
+"NiloSaharan","Southwestern Dinka","Luanyjang","dik","u",363,1163,6
+"NiloSaharan","Eastern Dinka","","dks","i",200,1850,7
+"NiloSaharan","Eastern Dinka","","dks","e",340,1700,7
+"NiloSaharan","Eastern Dinka","","dks","_",385,1450,7
+"NiloSaharan","Eastern Dinka","","dks","a",530,1130,7
+"NiloSaharan","Eastern Dinka","","dks","_",400,775,7
+"NiloSaharan","Eastern Dinka","","dks","o",260,650,7
+"NiloSaharan","Eastern Dinka","","dks","u",230,645,7
+"SinoTibetan","Darma","","drd","",350,2170,6
+"SinoTibetan","Darma","","drd","",430,1990,6
+"SinoTibetan","Darma","","drd","",550,1775,6
+"SinoTibetan","Darma","","drd","",670,1370,6
+"SinoTibetan","Darma","","drd","",555,1045,6
+"SinoTibetan","Darma","","drd","",405,1095,6
+"Austronesian","Rukai","Budai","dru","i",420,2125,4
+"Austronesian","Rukai","Budai","dru","a",805,1395,4
+"Austronesian","Rukai","Budai","dru","u",520,970,4
+"Austronesian","Rukai","Budai","dru","_",550,1545,4
+"Austronesian","Ndumbea","Naniouni","duf","i",307,2232,7
+"Austronesian","Ndumbea","Naniouni","duf","e",361,2026,7
+"Austronesian","Ndumbea","Naniouni","duf","_",414,1938,7
+"Austronesian","Ndumbea","Naniouni","duf","a",678,1351,7
+"Austronesian","Ndumbea","Naniouni","duf","o",474,838,7
+"Austronesian","Ndumbea","Naniouni","duf","_",352,603,7
+"Austronesian","Ndumbea","Naniouni","duf","u",311,623,7
+"NigerCongo","Diola","Kujamutay","dyo","i",289,2289,10
+"NigerCongo","Diola","Kujamutay","dyo","_",332,2356,10
+"NigerCongo","Diola","Kujamutay","dyo","e",426,1908,10
+"NigerCongo","Diola","Kujamutay","dyo","_",509,1869,10
+"NigerCongo","Diola","Kujamutay","dyo","_",561,1894,10
+"NigerCongo","Diola","Kujamutay","dyo","a",829,1513,10
+"NigerCongo","Diola","Kujamutay","dyo","_",647,1051,10
+"NigerCongo","Diola","Kujamutay","dyo","_",430,922,10
+"NigerCongo","Diola","Kujamutay","dyo","o",399,1110,10
+"NigerCongo","Diola","Kujamutay","dyo","u",331,1014,10
+"IndoEuropean","Emilian","","egl","i",341,2481,9
+"IndoEuropean","Emilian","","egl","e",420,2422,9
+"IndoEuropean","Emilian","","egl","_",577,2187,9
+"IndoEuropean","Emilian","","egl","a",899,1373,9
+"IndoEuropean","Emilian","","egl","_",696,1030,9
+"IndoEuropean","Emilian","","egl","o",496,994,9
+"IndoEuropean","Emilian","","egl","u",363,918,9
+"IndoEuropean","Emilian","","egl","y",348,1761,9
+"IndoEuropean","Emilian","","egl","ø",448,1524,9
+"Uralic","Estonian","Eastern Saaremaa","ekk","i",290,2279,7
+"Uralic","Estonian","Eastern Saaremaa","ekk","e",430,1977,7
+"Uralic","Estonian","Eastern Saaremaa","ekk","æ",642,1626,7
+"Uralic","Estonian","Eastern Saaremaa","ekk","_",654,1135,7
+"Uralic","Estonian","Eastern Saaremaa","ekk","o",423,909,7
+"Uralic","Estonian","Eastern Saaremaa","ekk","u",306,833,7
+"Uralic","Estonian","Eastern Saaremaa","ekk","ø",454,1497,7
+"Uralic","Estonian","Eastern Saaremaa","ekk","i",304,2123,8
+"Uralic","Estonian","Eastern Saaremaa","ekk","e",534,1810,8
+"Uralic","Estonian","Eastern Saaremaa","ekk","æ",634,1630,8
+"Uralic","Estonian","Eastern Saaremaa","ekk","_",642,1187,8
+"Uralic","Estonian","Eastern Saaremaa","ekk","o",469,986,8
+"Uralic","Estonian","Eastern Saaremaa","ekk","u",341,915,8
+"Uralic","Estonian","Eastern Saaremaa","ekk","y",302,1829,8
+"Uralic","Estonian","Eastern Saaremaa","ekk","ø",467,1493,8
+"IndoEuropean","Greek","","ell","i",310,1909,5
+"IndoEuropean","Greek","","ell","e",474,1641,5
+"IndoEuropean","Greek","","ell","a",680,1229,5
+"IndoEuropean","Greek","","ell","o",476,854,5
+"IndoEuropean","Greek","","ell","u",338,837,5
+"IndoEuropean","English","American>General","eng","i",312,2307,7
+"IndoEuropean","English","American>General","eng","e",472,2062,7
+"IndoEuropean","English","American>General","eng","æ",730,1568,7
+"IndoEuropean","English","American>General","eng","_",753,1250,7
+"IndoEuropean","English","American>General","eng","_",678,1062,7
+"IndoEuropean","English","American>General","eng","o",500,909,7
+"IndoEuropean","English","American>General","eng","u",348,995,7
+"NigerCongo","Eton","","eto","i",280,2195,8
+"NigerCongo","Eton","","eto","e",320,1980,8
+"NigerCongo","Eton","","eto","_",435,1825,8
+"NigerCongo","Eton","","eto","a",540,1485,8
+"NigerCongo","Eton","","eto","_",425,1100,8
+"NigerCongo","Eton","","eto","o",385,920,8
+"NigerCongo","Eton","","eto","u",305,1135,8
+"NigerCongo","Eton","","eto","_",335,1630,8
+"Isolate","Basque","","eus","i",381,2449,5
+"Isolate","Basque","","eus","e",596,2044,5
+"Isolate","Basque","","eus","a",790,1546,5
+"Isolate","Basque","","eus","o",587,1164,5
+"Isolate","Basque","","eus","u",438,1062,5
+"Altaic","Solon","Yaohe","evn","i",345,2372,10
+"Altaic","Solon","Yaohe","evn","e",398,2323,10
+"Altaic","Solon","Yaohe","evn","_",493,2133,10
+"Altaic","Solon","Yaohe","evn","æ",520,2085,10
+"Altaic","Solon","Yaohe","evn","a",673,1448,10
+"Altaic","Solon","Yaohe","evn","_",615,1110,10
+"Altaic","Solon","Yaohe","evn","_",500,873,10
+"Altaic","Solon","Yaohe","evn","u",365,775,10
+"Altaic","Solon","Yaohe","evn","_",508,1138,10
+"Altaic","Solon","Yaohe","evn","_",502,945,10
+"Uralic","Finnish","Helsinki","fin","i",229,2096,8
+"Uralic","Finnish","Helsinki","fin","e_",443,1889,8
+"Uralic","Finnish","Helsinki","fin","æ",614,1568,8
+"Uralic","Finnish","Helsinki","fin","_",619,1131,8
+"Uralic","Finnish","Helsinki","fin","o_",478,831,8
+"Uralic","Finnish","Helsinki","fin","u",300,574,8
+"Uralic","Finnish","Helsinki","fin","y",251,1701,8
+"Uralic","Finnish","Helsinki","fin","ø_",436,1588,8
+"Uralic","Finnish","Helsinki","fin","i",287,1974,8
+"Uralic","Finnish","Helsinki","fin","__",465,1878,8
+"Uralic","Finnish","Helsinki","fin","æ",630,1568,8
+"Uralic","Finnish","Helsinki","fin","_",621,1194,8
+"Uralic","Finnish","Helsinki","fin","__",499,879,8
+"Uralic","Finnish","Helsinki","fin","u",327,843,8
+"Uralic","Finnish","Helsinki","fin","y",287,1665,8
+"Uralic","Finnish","Helsinki","fin","œ_",455,1513,8
+"Salishan","Montana Salish","","fla","i",349,2062,5
+"Salishan","Montana Salish","","fla","e",510,1738,5
+"Salishan","Montana Salish","","fla","a",683,1389,5
+"Salishan","Montana Salish","","fla","o",540,994,5
+"Salishan","Montana Salish","","fla","u",355,1011,5
+"NigerCongo","Fe'fe'","","fmp","i",270,2220,8
+"NigerCongo","Fe'fe'","","fmp","e",320,2280,8
+"NigerCongo","Fe'fe'","","fmp","a",920,1630,8
+"NigerCongo","Fe'fe'","","fmp","_",640,1070,8
+"NigerCongo","Fe'fe'","","fmp","_",600,1000,8
+"NigerCongo","Fe'fe'","","fmp","u",290,660,8
+"NigerCongo","Fe'fe'","","fmp","_",310,1530,8
+"NigerCongo","Fe'fe'","","fmp","_",350,1500,8
+"NigerCongo","Foodo","","fod","i",323,2103,9
+"NigerCongo","Foodo","","fod","e",437,2064,9
+"NigerCongo","Foodo","","fod","_",442,2038,9
+"NigerCongo","Foodo","","fod","_",639,1838,9
+"NigerCongo","Foodo","","fod","a",862,1441,9
+"NigerCongo","Foodo","","fod","_",638,1010,9
+"NigerCongo","Foodo","","fod","_",469,853,9
+"NigerCongo","Foodo","","fod","o",459,995,9
+"NigerCongo","Foodo","","fod","u",365,771,9
+"IndoEuropean","French","Quebec","fra","i",250,2055,11
+"IndoEuropean","French","Quebec","fra","e",345,2020,11
+"IndoEuropean","French","Quebec","fra","_",460,1770,11
+"IndoEuropean","French","Quebec","fra","a",615,1465,11
+"IndoEuropean","French","Quebec","fra","_",605,1165,11
+"IndoEuropean","French","Quebec","fra","_",485,1240,11
+"IndoEuropean","French","Quebec","fra","o",355,755,11
+"IndoEuropean","French","Quebec","fra","u",260,745,11
+"IndoEuropean","French","Quebec","fra","y",255,1825,11
+"IndoEuropean","French","Quebec","fra","ø",350,1460,11
+"IndoEuropean","French","Quebec","fra","œ",450,1525,11
+"IndoEuropean","North Frisian","Fering","frr","i",280,2208,8
+"IndoEuropean","North Frisian","Fering","frr","e",354,2181,8
+"IndoEuropean","North Frisian","Fering","frr","_",644,1579,8
+"IndoEuropean","North Frisian","Fering","frr","_",687,1050,8
+"IndoEuropean","North Frisian","Fering","frr","o",374,714,8
+"IndoEuropean","North Frisian","Fering","frr","u",307,761,8
+"IndoEuropean","North Frisian","Fering","frr","y",281,1675,8
+"IndoEuropean","North Frisian","Fering","frr","ø",370,1435,8
+"IndoEuropean","North Frisian","Fering","frr","_",370,1960,7
+"IndoEuropean","North Frisian","Fering","frr","_",515,1755,7
+"IndoEuropean","North Frisian","Fering","frr","a",748,1270,7
+"IndoEuropean","North Frisian","Fering","frr","_",553,989,7
+"IndoEuropean","North Frisian","Fering","frr","_",391,904,7
+"IndoEuropean","North Frisian","Fering","frr","_",340,1556,7
+"IndoEuropean","North Frisian","Fering","frr","œ",448,1430,7
+"IndoEuropean","Frisian","West","fry","i",277,2337,9
+"IndoEuropean","Frisian","West","fry","e",347,2060,9
+"IndoEuropean","Frisian","West","fry","_",515,1870,9
+"IndoEuropean","Frisian","West","fry","a",762,1475,9
+"IndoEuropean","Frisian","West","fry","_",557,877,9
+"IndoEuropean","Frisian","West","fry","o",420,940,9
+"IndoEuropean","Frisian","West","fry","u",320,705,9
+"IndoEuropean","Frisian","West","fry","y",280,1797,9
+"IndoEuropean","Frisian","West","fry","ø",390,1602,9
+"NigerCongo","Gban","N'da","ggu","i",260,2050,7
+"NigerCongo","Gban","N'da","ggu","e",340,1960,7
+"NigerCongo","Gban","N'da","ggu","_",450,1870,7
+"NigerCongo","Gban","N'da","ggu","a",610,1380,7
+"NigerCongo","Gban","N'da","ggu","_",480,1100,7
+"NigerCongo","Gban","N'da","ggu","o",380,960,7
+"NigerCongo","Gban","N'da","ggu","u",250,890,7
+"IndoEuropean","Scottish Gaelic","Bernera","gla","i",320,2100,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","e",385,2010,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","_",440,1910,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","a",640,1320,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","_",470,880,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","o",390,710,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","u",320,1475,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","_",370,1630,9
+"IndoEuropean","Scottish Gaelic","Bernera","gla","_",490,1365,9
+"IndoEuropean","Galician","","glg","i",312,2227,7
+"IndoEuropean","Galician","","glg","e",418,1899,7
+"IndoEuropean","Galician","","glg","_",555,1769,7
+"IndoEuropean","Galician","","glg","a",700,1218,7
+"IndoEuropean","Galician","","glg","_",538,930,7
+"IndoEuropean","Galician","","glg","o",424,812,7
+"IndoEuropean","Galician","","glg","u",318,705,7
+"Tupian","Paraguayan Guarani","","gug","i",280,2270,6
+"Tupian","Paraguayan Guarani","","gug","e",420,2030,6
+"Tupian","Paraguayan Guarani","","gug","a",720,1365,6
+"Tupian","Paraguayan Guarani","","gug","o",420,890,6
+"Tupian","Paraguayan Guarani","","gug","u",300,840,6
+"Tupian","Paraguayan Guarani","","gug","_",325,1500,6
+"IndoEuropean","Gujarati","","guj","i",243,2400,7
+"IndoEuropean","Gujarati","","guj","e",385,2167,7
+"IndoEuropean","Gujarati","","guj","a",818,1293,7
+"IndoEuropean","Gujarati","","guj","o",433,825,7
+"IndoEuropean","Gujarati","","guj","u",297,683,7
+"IndoEuropean","Gujarati","","guj","_",603,1083,7
+"NiloSaharan","Gumuz","","guk","i",360,1965,6
+"NiloSaharan","Gumuz","","guk","e",520,1755,6
+"NiloSaharan","Gumuz","","guk","a",650,1400,6
+"NiloSaharan","Gumuz","","guk","o",460,945,6
+"NiloSaharan","Gumuz","","guk","u",360,820,6
+"NiloSaharan","Gumuz","","guk","_",445,1655,6
+"Australian","Kunwinjku","","gup","i",339,2151,5
+"Australian","Kunwinjku","","gup","e",477,1909,5
+"Australian","Kunwinjku","","gup","a",611,1471,5
+"Australian","Kunwinjku","","gup","o",478,1050,5
+"Australian","Kunwinjku","","gup","u",389,1079,5
+"KwadiKhoe","G|wi","","gwj","i",240,2190,5
+"KwadiKhoe","G|wi","","gwj","e",395,2010,5
+"KwadiKhoe","G|wi","","gwj","a",770,1270,5
+"KwadiKhoe","G|wi","","gwj","o",360,840,5
+"KwadiKhoe","G|wi","","gwj","u",250,790,5
+"Sinitic","Hakka","Meixian","hak","i",275,2226,5
+"Sinitic","Hakka","Meixian","hak","e",485,2108,5
+"Sinitic","Hakka","Meixian","hak","a",892,1401,5
+"Sinitic","Hakka","Meixian","hak","o",522,793,5
+"Sinitic","Hakka","Meixian","hak","u",379,796,5
+"AfroAsiatic","Hausa","Kano","hau","i",265,2230,5
+"AfroAsiatic","Hausa","Kano","hau","e",415,2130,5
+"AfroAsiatic","Hausa","Kano","hau","a",695,1780,5
+"AfroAsiatic","Hausa","Kano","hau","o",395,1040,5
+"AfroAsiatic","Hausa","Kano","hau","u",315,910,5
+"AfroAsiatic","Hausa","Kano","hau","i",305,2130,3
+"AfroAsiatic","Hausa","Kano","hau","a",550,1480,3
+"AfroAsiatic","Hausa","Kano","hau","u",335,1055,3
+"IndoEuropean","Serbo-Croatian","Belgrad","hbs","i",261,2338,5
+"IndoEuropean","Serbo-Croatian","Belgrad","hbs","e",545,1894,5
+"IndoEuropean","Serbo-Croatian","Belgrad","hbs","a",762,1245,5
+"IndoEuropean","Serbo-Croatian","Belgrad","hbs","o",552,884,5
+"IndoEuropean","Serbo-Croatian","Belgrad","hbs","u",380,748,5
+"AfroAsiatic","Hebrew","Standard","heb","e",460,1870,5
+"AfroAsiatic","Hebrew","Standard","heb","a",675,1185,5
+"AfroAsiatic","Hebrew","Standard","heb","o",438,858,5
+"AfroAsiatic","Hebrew","Standard","heb","u",320,783,5
+"Isolate","Hadza","","hts","i",345,2075,5
+"Isolate","Hadza","","hts","e",535,1755,5
+"Isolate","Hadza","","hts","a",620,1485,5
+"Isolate","Hadza","","hts","o",495,1235,5
+"Isolate","Hadza","","hts","u",335,1245,5
+"Uralic","Hungarian","Standard","hun","i",270,2300,7
+"Uralic","Hungarian","Standard","hun","e",370,2100,7
+"Uralic","Hungarian","Standard","hun","a",850,1450,7
+"Uralic","Hungarian","Standard","hun","o",380,850,7
+"Uralic","Hungarian","Standard","hun","u",270,680,7
+"Uralic","Hungarian","Standard","hun","y",310,1650,7
+"Uralic","Hungarian","Standard","hun","ø",420,1450,7
+"Uralic","Hungarian","Standard","hun","i",320,2200,7
+"Uralic","Hungarian","Standard","hun","_",480,1900,7
+"Uralic","Hungarian","Standard","hun","_",550,1050,7
+"Uralic","Hungarian","Standard","hun","o",430,920,7
+"Uralic","Hungarian","Standard","hun","u",320,750,7
+"Uralic","Hungarian","Standard","hun","y",370,1550,7
+"Uralic","Hungarian","Standard","hun","ø",460,1350,7
+"DeneYeniseian","Hupa","","hup","e",560,1786,3
+"DeneYeniseian","Hupa","","hup","a",758,1218,3
+"DeneYeniseian","Hupa","","hup","o",544,911,3
+"DeneYeniseian","Hupa","","hup","_",408,1890,3
+"DeneYeniseian","Hupa","","hup","a",737,1299,3
+"DeneYeniseian","Hupa","","hup","o",498,847,3
+"Austronesian","Iaai","","iai","e",462,2018,10
+"Austronesian","Iaai","","iai","æ",741,1479,10
+"Austronesian","Iaai","","iai","a",708,1140,10
+"Austronesian","Iaai","","iai","_",640,1135,10
+"Austronesian","Iaai","","iai","o",458,1079,10
+"Austronesian","Iaai","","iai","u",328,829,10
+"Austronesian","Iaai","","iai","y",265,1799,10
+"Austronesian","Iaai","","iai","ø",386,1382,10
+"Austronesian","Iaai","","iai","_",468,1425,10
+"NigerCongo","Igbo","","ibo","i",281,2353,8
+"NigerCongo","Igbo","","ibo","e",405,2247,8
+"NigerCongo","Igbo","","ibo","_",440,1746,8
+"NigerCongo","Igbo","","ibo","a",730,1321,8
+"NigerCongo","Igbo","","ibo","_",415,692,8
+"NigerCongo","Igbo","","ibo","o",391,828,8
+"NigerCongo","Igbo","","ibo","_",303,650,8
+"NigerCongo","Igbo","","ibo","u",281,849,8
+"NigerCongo","Ife","Tchetti","ife","i",279,2203,7
+"NigerCongo","Ife","Tchetti","ife","e",375,1945,7
+"NigerCongo","Ife","Tchetti","ife","_",529,1807,7
+"NigerCongo","Ife","Tchetti","ife","a",727,1398,7
+"NigerCongo","Ife","Tchetti","ife","_",579,1078,7
+"NigerCongo","Ife","Tchetti","ife","o",384,899,7
+"NigerCongo","Ife","Tchetti","ife","u",316,808,7
+"Austronesian","Indonesian","","ind","i",287,2413,6
+"Austronesian","Indonesian","","ind","e",459,1730,6
+"Austronesian","Indonesian","","ind","a",877,1529,6
+"Austronesian","Indonesian","","ind","o",477,1015,6
+"Austronesian","Indonesian","","ind","u",320,914,6
+"Austronesian","Indonesian","","ind","_",486,1493,6
+"IndoEuropean","Icelandic","Standard","isl","i",268,2320,8
+"IndoEuropean","Icelandic","Standard","isl","_",373,2105,8
+"IndoEuropean","Icelandic","Standard","isl","_",549,1891,8
+"IndoEuropean","Icelandic","Standard","isl","_",818,1270,8
+"IndoEuropean","Icelandic","Standard","isl","_",559,893,8
+"IndoEuropean","Icelandic","Standard","isl","u",313,705,8
+"IndoEuropean","Icelandic","Standard","isl","_",420,1423,8
+"IndoEuropean","Icelandic","Standard","isl","œ",588,1291,8
+"IndoEuropean","Icelandic","Standard","isl","i",285,2210,8
+"IndoEuropean","Icelandic","Standard","isl","_",388,2058,8
+"IndoEuropean","Icelandic","Standard","isl","_",680,1673,8
+"IndoEuropean","Icelandic","Standard","isl","_",775,1320,8
+"IndoEuropean","Icelandic","Standard","isl","_",675,1003,8
+"IndoEuropean","Icelandic","Standard","isl","u",373,880,8
+"IndoEuropean","Icelandic","Standard","isl","_",450,1448,8
+"IndoEuropean","Icelandic","Standard","isl","œ",668,1305,8
+"IndoEuropean","Italian","Florence","ita","i",298,2138,7
+"IndoEuropean","Italian","Florence","ita","e",396,2006,7
+"IndoEuropean","Italian","Florence","ita","_",539,1868,7
+"IndoEuropean","Italian","Florence","ita","a",765,1224,7
+"IndoEuropean","Italian","Florence","ita","_",563,874,7
+"IndoEuropean","Italian","Florence","ita","o",439,768,7
+"IndoEuropean","Italian","Florence","ita","u",325,701,7
+"Japonic","Japanese","Karatsu","jpn","i",393,2300,5
+"Japonic","Japanese","Karatsu","jpn","e",511,2256,5
+"Japonic","Japanese","Karatsu","jpn","a",869,1442,5
+"Japonic","Japanese","Karatsu","jpn","o",534,967,5
+"Japonic","Japanese","Karatsu","jpn","_",457,1048,5
+"EskimoAleut","Greenlandic","Holsteinborg","kal","i",317,2067,3
+"EskimoAleut","Greenlandic","Holsteinborg","kal","a",636,1514,3
+"EskimoAleut","Greenlandic","Holsteinborg","kal","u",330,1030,3
+"Dravidian","Kannada","Mysore","kan","i",348,2337,5
+"Dravidian","Kannada","Mysore","kan","e",435,2225,5
+"Dravidian","Kannada","Mysore","kan","a",697,1223,5
+"Dravidian","Kannada","Mysore","kan","o",455,927,5
+"Dravidian","Kannada","Mysore","kan","u",385,918,5
+"Dravidian","Kannada","Mysore","kan","i",379,2158,5
+"Dravidian","Kannada","Mysore","kan","e",457,2032,5
+"Dravidian","Kannada","Mysore","kan","a",556,1419,5
+"Dravidian","Kannada","Mysore","kan","o",531,1175,5
+"Dravidian","Kannada","Mysore","kan","u",414,1241,5
+"SouthCaucasian","Georgian","Standard","kat","i",325,2135,5
+"SouthCaucasian","Georgian","Standard","kat","_",410,1950,5
+"SouthCaucasian","Georgian","Standard","kat","a",700,1245,5
+"SouthCaucasian","Georgian","Standard","kat","_",460,875,5
+"SouthCaucasian","Georgian","Standard","kat","u",440,1010,5
+"Altaic","Kazakh","","kaz","e",400,2000,9
+"Altaic","Kazakh","","kaz","__",650,1750,9
+"Altaic","Kazakh","","kaz","_",750,1100,9
+"Altaic","Kazakh","","kaz","o",600,975,9
+"Altaic","Kazakh","","kaz","u",400,1000,9
+"Altaic","Kazakh","","kaz","i",400,1850,9
+"Altaic","Kazakh","","kaz","u_",400,1400,9
+"Altaic","Kazakh","","kaz","o_",550,1450,9
+"Altaic","Kazakh","","kaz","y",450,1100,9
+"Uralic","Khanty","Ob'","kca","e:",500,2000,4
+"Uralic","Khanty","Ob'","kca","__:",685,1350,4
+"Uralic","Khanty","Ob'","kca","o_:",450,840,4
+"Uralic","Khanty","Ob'","kca","__:",450,1200,4
+"Uralic","Khanty","Ob'","kca","i",360,2160,4
+"Uralic","Khanty","Ob'","kca","__",580,1540,4
+"Uralic","Khanty","Ob'","kca","__",400,840,4
+"Uralic","Khanty","Ob'","kca","__",390,1170,4
+"AustroAsiatic","Kuy","","kdt","i",480,2355,11
+"AustroAsiatic","Kuy","","kdt","e",595,2100,11
+"AustroAsiatic","Kuy","","kdt","_",855,1825,11
+"AustroAsiatic","Kuy","","kdt","a",990,1515,11
+"AustroAsiatic","Kuy","","kdt","_",985,1355,11
+"AustroAsiatic","Kuy","","kdt","_",775,1175,11
+"AustroAsiatic","Kuy","","kdt","o",605,1020,11
+"AustroAsiatic","Kuy","","kdt","u",495,940,11
+"AustroAsiatic","Kuy","","kdt","_",500,1375,11
+"AustroAsiatic","Kuy","","kdt","_",640,1390,11
+"AustroAsiatic","Kuy","","kdt","_",755,1440,11
+"AustroAsiatic","Kuy","","kdt","i",465,2195,11
+"AustroAsiatic","Kuy","","kdt","e",615,2065,11
+"AustroAsiatic","Kuy","","kdt","_",875,1765,11
+"AustroAsiatic","Kuy","","kdt","a",1035,1570,11
+"AustroAsiatic","Kuy","","kdt","_",1050,1405,11
+"AustroAsiatic","Kuy","","kdt","_",755,1165,11
+"AustroAsiatic","Kuy","","kdt","o",625,1095,11
+"AustroAsiatic","Kuy","","kdt","u",455,905,11
+"AustroAsiatic","Kuy","","kdt","_",510,1530,11
+"AustroAsiatic","Kuy","","kdt","_",635,1480,11
+"AustroAsiatic","Kuy","","kdt","_",745,1460,11
+"AfroAsiatic","Kera","","ker","i",320,2090,6
+"AfroAsiatic","Kera","","ker","_",480,1835,6
+"AfroAsiatic","Kera","","ker","a",645,1345,6
+"AfroAsiatic","Kera","","ker","_",505,1025,6
+"AfroAsiatic","Kera","","ker","u",340,925,6
+"AfroAsiatic","Kera","","ker","_",385,1445,6
+"Altaic","Khalkha","Bajanhongor","khk","i",367,1995,8
+"Altaic","Khalkha","Bajanhongor","khk","_",513,1790,8
+"Altaic","Khalkha","Bajanhongor","khk","a",802,1373,8
+"Altaic","Khalkha","Bajanhongor","khk","_",615,1033,8
+"Altaic","Khalkha","Bajanhongor","khk","_",480,913,8
+"Altaic","Khalkha","Bajanhongor","khk","u",357,823,8
+"Altaic","Khalkha","Bajanhongor","khk","e",472,1478,8
+"Altaic","Khalkha","Bajanhongor","khk","_",475,1098,8
+"AustroAsiatic","Khmer","Battambang","khm","i",263,2381,8
+"AustroAsiatic","Khmer","Battambang","khm","e",460,2173,8
+"AustroAsiatic","Khmer","Battambang","khm","a",807,1596,8
+"AustroAsiatic","Khmer","Battambang","khm","_",632,965,8
+"AustroAsiatic","Khmer","Battambang","khm","o",485,880,8
+"AustroAsiatic","Khmer","Battambang","khm","u",315,680,8
+"AustroAsiatic","Khmer","Battambang","khm","_",343,1404,8
+"AustroAsiatic","Khmer","Battambang","khm","_",540,1423,8
+"AustroAsiatic","Khmer","Battambang","khm","i",306,2350,9
+"AustroAsiatic","Khmer","Battambang","khm","_",372,2018,9
+"AustroAsiatic","Khmer","Battambang","khm","e",558,2012,9
+"AustroAsiatic","Khmer","Battambang","khm","a",721,1603,9
+"AustroAsiatic","Khmer","Battambang","khm","_",735,1209,9
+"AustroAsiatic","Khmer","Battambang","khm","o",574,1059,9
+"AustroAsiatic","Khmer","Battambang","khm","u",452,862,9
+"AustroAsiatic","Khmer","Battambang","khm","_",496,1633,9
+"AustroAsiatic","Khmer","Battambang","khm","_",665,1615,9
+"LakesPlan","Kirikiri","","kiy","i_",230,2110,7
+"LakesPlan","Kirikiri","","kiy","i",420,1980,7
+"LakesPlan","Kirikiri","","kiy","_",670,1660,7
+"LakesPlan","Kirikiri","","kiy","a",900,1340,7
+"LakesPlan","Kirikiri","","kiy","_",685,1195,7
+"LakesPlan","Kirikiri","","kiy","u",435,900,7
+"LakesPlan","Kirikiri","","kiy","u_",270,860,7
+"NigerCongo","Konni","","kma","i",370,1770,9
+"NigerCongo","Konni","","kma","_",420,1690,9
+"NigerCongo","Konni","","kma","e",470,1550,9
+"NigerCongo","Konni","","kma","_",650,1560,9
+"NigerCongo","Konni","","kma","a",730,1350,9
+"NigerCongo","Konni","","kma","_",610,1070,9
+"NigerCongo","Konni","","kma","o",470,1090,9
+"NigerCongo","Konni","","kma","_",440,1050,9
+"NigerCongo","Konni","","kma","u",410,980,9
+"NiloSaharan","Baale","","koe","i",353,2109,9
+"NiloSaharan","Baale","","koe","_",402,1953,9
+"NiloSaharan","Baale","","koe","e",427,1994,9
+"NiloSaharan","Baale","","koe","_",546,1733,9
+"NiloSaharan","Baale","","koe","a",684,1443,9
+"NiloSaharan","Baale","","koe","_",493,1036,9
+"NiloSaharan","Baale","","koe","o",398,992,9
+"NiloSaharan","Baale","","koe","_",397,842,9
+"NiloSaharan","Baale","","koe","u",363,915,9
+"Isolate","Korean","Chungnam","kor","i",341,2209,7
+"Isolate","Korean","Chungnam","kor","e",575,1800,7
+"Isolate","Korean","Chungnam","kor","a",740,1257,7
+"Isolate","Korean","Chungnam","kor","_",580,964,7
+"Isolate","Korean","Chungnam","kor","o",404,764,7
+"Isolate","Korean","Chungnam","kor","u",409,902,7
+"Isolate","Korean","Chungnam","kor","_",402,1340,7
+"NiloSaharan","Ikposo","Uwi","kpo","i",229,2207,10
+"NiloSaharan","Ikposo","Uwi","kpo","_",294,2176,10
+"NiloSaharan","Ikposo","Uwi","kpo","e",337,2068,10
+"NiloSaharan","Ikposo","Uwi","kpo","_",467,1942,10
+"NiloSaharan","Ikposo","Uwi","kpo","a",745,1390,10
+"NiloSaharan","Ikposo","Uwi","kpo","_",517,972,10
+"NiloSaharan","Ikposo","Uwi","kpo","o",334,882,10
+"NiloSaharan","Ikposo","Uwi","kpo","_",335,796,10
+"NiloSaharan","Ikposo","Uwi","kpo","u",268,834,10
+"NiloSaharan","Ikposo","Uwi","kpo","_",560,1463,10
+"Uralic","Komi","Zyrian","kpv","i",272,1926,7
+"Uralic","Komi","Zyrian","kpv","e",381,1790,7
+"Uralic","Komi","Zyrian","kpv","a",711,1385,7
+"Uralic","Komi","Zyrian","kpv","o",430,762,7
+"Uralic","Komi","Zyrian","kpv","u",213,568,7
+"Uralic","Komi","Zyrian","kpv","_",289,1277,7
+"Uralic","Komi","Zyrian","kpv","_",410,1208,7
+"Tupian","Karitiana","","ktn","i",312,2340,5
+"Tupian","Karitiana","","ktn","e",461,2066,5
+"Tupian","Karitiana","","ktn","a",699,1496,5
+"Tupian","Karitiana","","ktn","o",479,1019,5
+"Tupian","Karitiana","","ktn","_",391,1546,5
+"NiloSaharan","Nar","Doro","kwv","i",273,2342,6
+"NiloSaharan","Nar","Doro","kwv","e",336,2286,6
+"NiloSaharan","Nar","Doro","kwv","a",631,1821,6
+"NiloSaharan","Nar","Doro","kwv","_",496,1104,6
+"NiloSaharan","Nar","Doro","kwv","o",365,733,6
+"NiloSaharan","Nar","Doro","kwv","u",310,695,6
+"AustroAsiatic","Northern Khmer","Surin","kxm","i",287,2387,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",375,2300,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","e",512,2137,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",650,1925,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","a",837,1337,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",725,1013,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",600,875,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","o",500,812,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",400,737,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","u",287,687,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",337,1500,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",462,1450,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",575,1375,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",737,1375,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","i",300,2300,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",425,2200,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","e",550,2100,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",650,1850,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","a",775,1400,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",700,1000,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",600,850,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","o",525,800,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",425,725,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","u",325,650,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",425,1500,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",480,1400,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",625,1400,14
+"AustroAsiatic","Northern Khmer","Surin","kxm","_",750,1350,14
+"Tupian","Kuruaya","","kyr","i",357,2052,6
+"Tupian","Kuruaya","","kyr","_",540,1738,6
+"Tupian","Kuruaya","","kyr","a",698,1576,6
+"Tupian","Kuruaya","","kyr","_",535,1166,6
+"Tupian","Kuruaya","","kyr","o",440,824,6
+"Tupian","Kuruaya","","kyr","_",388,1580,6
+"NigerCongo","Lango","","laj","i",300,2100,10
+"NigerCongo","Lango","","laj","_",350,2050,10
+"NigerCongo","Lango","","laj","e",370,1680,10
+"NigerCongo","Lango","","laj","_",510,1610,10
+"NigerCongo","Lango","","laj","a",710,1060,10
+"NigerCongo","Lango","","laj","_",440,785,10
+"NigerCongo","Lango","","laj","o",425,825,10
+"NigerCongo","Lango","","laj","_",380,780,10
+"NigerCongo","Lango","","laj","u",355,710,10
+"NigerCongo","Lango","","laj","_",660,1200,10
+"IndoEuropean","Latvian","Standard","lav","i",286,2189,6
+"IndoEuropean","Latvian","Standard","lav","e",426,1975,6
+"IndoEuropean","Latvian","Standard","lav","æ",681,1532,6
+"IndoEuropean","Latvian","Standard","lav","a",657,1005,6
+"IndoEuropean","Latvian","Standard","lav","o",468,731,6
+"IndoEuropean","Latvian","Standard","lav","u",325,589,6
+"IndoEuropean","Latvian","Standard","lav","i",312,2182,6
+"IndoEuropean","Latvian","Standard","lav","e",458,1921,6
+"IndoEuropean","Latvian","Standard","lav","æ",675,1564,6
+"IndoEuropean","Latvian","Standard","lav","a",690,1044,6
+"IndoEuropean","Latvian","Standard","lav","o",509,787,6
+"IndoEuropean","Latvian","Standard","lav","u",323,642,6
+"IndoEuropean","Lithuanian","","lit","i",470,1900,5
+"IndoEuropean","Lithuanian","","lit","e",560,1770,5
+"IndoEuropean","Lithuanian","","lit","a",600,1290,5
+"IndoEuropean","Lithuanian","","lit","_",570,1140,5
+"IndoEuropean","Lithuanian","","lit","u",460,930,5
+"Uralic","Livonian","Eastern","liv","i",340,2391,8
+"Uralic","Livonian","Eastern","liv","e",452,2241,8
+"Uralic","Livonian","Eastern","liv","æ",580,1732,8
+"Uralic","Livonian","Eastern","liv","a",628,1637,8
+"Uralic","Livonian","Eastern","liv","o",490,865,8
+"Uralic","Livonian","Eastern","liv","u",315,655,8
+"Uralic","Livonian","Eastern","liv","_",351,1021,8
+"Uralic","Livonian","Eastern","liv","_",412,1629,8
+"AfroAsiatic","Lele","","lln","i",340,2175,5
+"AfroAsiatic","Lele","","lln","e",570,1945,5
+"AfroAsiatic","Lele","","lln","a",745,1500,5
+"AfroAsiatic","Lele","","lln","o",515,1065,5
+"AfroAsiatic","Lele","","lln","u",305,1115,5
+"NiloSaharan","Dholuo","","luo","i",254,2106,9
+"NiloSaharan","Dholuo","","luo","_",309,1994,9
+"NiloSaharan","Dholuo","","luo","e",367,1937,9
+"NiloSaharan","Dholuo","","luo","_",554,1827,9
+"NiloSaharan","Dholuo","","luo","_",535,922,9
+"NiloSaharan","Dholuo","","luo","o",382,837,9
+"NiloSaharan","Dholuo","","luo","_",325,761,9
+"NiloSaharan","Dholuo","","luo","u",270,884,9
+"Austronesian","Madurese","Standard","mad","i",310,2240,8
+"Austronesian","Madurese","Standard","mad","_",422,2223,8
+"Austronesian","Madurese","Standard","mad","a",870,1308,8
+"Austronesian","Madurese","Standard","mad","_",512,1090,8
+"Austronesian","Madurese","Standard","mad","_",436,878,8
+"Austronesian","Madurese","Standard","mad","u",304,754,8
+"Austronesian","Madurese","Standard","mad","_",386,1088,8
+"Austronesian","Madurese","Standard","mad","_",412,1274,8
+"IndoEuropean","Maithili","","mai","i",277,2583,8
+"IndoEuropean","Maithili","","mai","e",430,2223,8
+"IndoEuropean","Maithili","","mai","æ",843,1843,8
+"IndoEuropean","Maithili","","mai","a",847,1277,8
+"IndoEuropean","Maithili","","mai","_",542,847,8
+"IndoEuropean","Maithili","","mai","o",445,777,8
+"IndoEuropean","Maithili","","mai","u",330,777,8
+"IndoEuropean","Maithili","","mai","_",777,1237,8
+"OtoManguean","Jalapa Mazatec","Jalapa de Diaz","maj","i",380,2140,5
+"OtoManguean","Jalapa Mazatec","Jalapa de Diaz","maj","æ",710,1845,5
+"OtoManguean","Jalapa Mazatec","Jalapa de Diaz","maj","a",710,1515,5
+"OtoManguean","Jalapa Mazatec","Jalapa de Diaz","maj","o",515,1190,5
+"OtoManguean","Jalapa Mazatec","Jalapa de Diaz","maj","u",410,1160,5
+"NiloSaharan","Maa","","mas","i",291,2114,9
+"NiloSaharan","Maa","","mas","_",377,2024,9
+"NiloSaharan","Maa","","mas","e",417,1946,9
+"NiloSaharan","Maa","","mas","_",538,1777,9
+"NiloSaharan","Maa","","mas","a",696,1431,9
+"NiloSaharan","Maa","","mas","_",537,1065,9
+"NiloSaharan","Maa","","mas","o",437,1035,9
+"NiloSaharan","Maa","","mas","_",376,1115,9
+"NiloSaharan","Maa","","mas","u",291,1023,9
+"Penutian","Molalla","","mbe","i",386,2295,4
+"Penutian","Molalla","","mbe","e",683,1640,4
+"Penutian","Molalla","","mbe","a",670,1141,4
+"Penutian","Molalla","","mbe","u",414,877,4
+"Penutian","Molalla","","mbe","i",436,2025,3
+"Penutian","Molalla","","mbe","a",627,1393,3
+"Penutian","Molalla","","mbe","u",459,991,3
+"AfroAsiatic","Mawa","","mcw","i",365,2200,6
+"AfroAsiatic","Mawa","","mcw","_",520,1905,6
+"AfroAsiatic","Mawa","","mcw","a",770,1195,6
+"AfroAsiatic","Mawa","","mcw","_",490,1020,6
+"AfroAsiatic","Mawa","","mcw","u",330,1135,6
+"AfroAsiatic","Mawa","","mcw","_",385,1630,6
+"NigerCongo","Mpiemo","Nola","mcx","i",319,2048,7
+"NigerCongo","Mpiemo","Nola","mcx","e",383,1986,7
+"NigerCongo","Mpiemo","Nola","mcx","_",502,1825,7
+"NigerCongo","Mpiemo","Nola","mcx","a",736,1301,7
+"NigerCongo","Mpiemo","Nola","mcx","_",503,951,7
+"NigerCongo","Mpiemo","Nola","mcx","o",381,861,7
+"NigerCongo","Mpiemo","Nola","mcx","u",361,694,7
+"NiloSaharan","Mangbetu","","mdj","i",257,2179,9
+"NiloSaharan","Mangbetu","","mdj","_",297,2107,9
+"NiloSaharan","Mangbetu","","mdj","e",372,1941,9
+"NiloSaharan","Mangbetu","","mdj","_",455,1904,9
+"NiloSaharan","Mangbetu","","mdj","a",702,1433,9
+"NiloSaharan","Mangbetu","","mdj","_",529,1014,9
+"NiloSaharan","Mangbetu","","mdj","o",378,877,9
+"NiloSaharan","Mangbetu","","mdj","_",340,848,9
+"NiloSaharan","Mangbetu","","mdj","u",276,799,9
+"NigerCongo","Mayogo","","mdm","i",284,2142,10
+"NigerCongo","Mayogo","","mdm","_",387,2158,10
+"NigerCongo","Mayogo","","mdm","e",401,2034,10
+"NigerCongo","Mayogo","","mdm","_",555,1974,10
+"NigerCongo","Mayogo","","mdm","a",771,1479,10
+"NigerCongo","Mayogo","","mdm","_",549,981,10
+"NigerCongo","Mayogo","","mdm","o",445,1009,10
+"NigerCongo","Mayogo","","mdm","_",363,756,10
+"NigerCongo","Mayogo","","mdm","u",271,767,10
+"NigerCongo","Mayogo","","mdm","_",372,1193,10
+"NigerCongo","Mbosi Olee","","mdw","i",309,2064,7
+"NigerCongo","Mbosi Olee","","mdw","e",375,1801,7
+"NigerCongo","Mbosi Olee","","mdw","_",476,1729,7
+"NigerCongo","Mbosi Olee","","mdw","a",705,1425,7
+"NigerCongo","Mbosi Olee","","mdw","_",506,1022,7
+"NigerCongo","Mbosi Olee","","mdw","o",386,1002,7
+"NigerCongo","Mbosi Olee","","mdw","u",322,1119,7
+"MixeZoque","Isthmus Mixe","","mir","i",320,2168,6
+"MixeZoque","Isthmus Mixe","","mir","_",424,1899,6
+"MixeZoque","Isthmus Mixe","","mir","a",639,1561,6
+"MixeZoque","Isthmus Mixe","","mir","_",440,1127,6
+"MixeZoque","Isthmus Mixe","","mir","u",341,1026,6
+"MixeZoque","Isthmus Mixe","","mir","_",359,1622,6
+"AfroAsiatic","Maltese","Gozo","mlt","_",277,2426,4
+"AfroAsiatic","Maltese","Gozo","mlt","_",562,1809,4
+"AfroAsiatic","Maltese","Gozo","mlt","_",733,1099,4
+"AfroAsiatic","Maltese","Gozo","mlt","_",312,801,4
+"NigerCongo","Mono","Bili","mnh","i",300,1936,8
+"NigerCongo","Mono","Bili","mnh","e",377,1909,8
+"NigerCongo","Mono","Bili","mnh","a",676,1318,8
+"NigerCongo","Mono","Bili","mnh","_",563,966,8
+"NigerCongo","Mono","Bili","mnh","o",434,940,8
+"NigerCongo","Mono","Bili","mnh","u",301,950,8
+"NigerCongo","Mono","Bili","mnh","_",301,1595,8
+"NigerCongo","Mono","Bili","mnh","_",418,1445,8
+"NigerCongo","Moore","","mos","i",286,2041,8
+"NigerCongo","Moore","","mos","_",343,2091,8
+"NigerCongo","Moore","","mos","e",390,2053,8
+"NigerCongo","Moore","","mos","_",578,1805,8
+"NigerCongo","Moore","","mos","a",712,1353,8
+"NigerCongo","Moore","","mos","o",443,961,8
+"NigerCongo","Moore","","mos","_",374,833,8
+"NigerCongo","Moore","","mos","u",320,855,8
+"AfroAsiatic","Moukoulu","","moz","i",310,1925,6
+"AfroAsiatic","Moukoulu","","moz","_",450,1850,6
+"AfroAsiatic","Moukoulu","","moz","a",700,1490,6
+"AfroAsiatic","Moukoulu","","moz","_",505,1030,6
+"AfroAsiatic","Moukoulu","","moz","u",375,900,6
+"AfroAsiatic","Moukoulu","","moz","_",405,1385,6
+"NiloSaharan","Majang","","mpe","_",311,2217,10
+"NiloSaharan","Majang","","mpe","i",344,2160,10
+"NiloSaharan","Majang","","mpe","e",396,2282,10
+"NiloSaharan","Majang","","mpe","_",481,2168,10
+"NiloSaharan","Majang","","mpe","a",858,1535,10
+"NiloSaharan","Majang","","mpe","_",533,1005,10
+"NiloSaharan","Majang","","mpe","o",424,988,10
+"NiloSaharan","Majang","","mpe","_",362,828,10
+"NiloSaharan","Majang","","mpe","u",329,948,10
+"NiloSaharan","Majang","","mpe","_",552,1434,10
+"Austronesian","Maori","North","mri","i",326,2178,5
+"Austronesian","Maori","North","mri","e",448,2048,5
+"Austronesian","Maori","North","mri","a",666,1156,5
+"Austronesian","Maori","North","mri","o",451,860,5
+"Austronesian","Maori","North","mri","u",345,1213,5
+"Austronesian","Maori","North","mri","i",367,2086,5
+"Austronesian","Maori","North","mri","e",448,1899,5
+"Austronesian","Maori","North","mri","a",548,1268,5
+"Austronesian","Maori","North","mri","o",441,1009,5
+"Austronesian","Maori","North","mri","u",355,1370,5
+"AfroAsiatic","Musey","Djodo","mse","i",306,1973,5
+"AfroAsiatic","Musey","Djodo","mse","e",489,1875,5
+"AfroAsiatic","Musey","Djodo","mse","a",695,1427,5
+"AfroAsiatic","Musey","Djodo","mse","o",482,1081,5
+"AfroAsiatic","Musey","Djodo","mse","u",352,967,5
+"Muskogean","Creek","Muskogee","mus","i",325,2020,3
+"Muskogean","Creek","Muskogee","mus","a",680,1260,3
+"Muskogean","Creek","Muskogee","mus","o",430,880,3
+"Muskogean","Creek","Muskogee","mus","i",375,1900,3
+"Muskogean","Creek","Muskogee","mus","a",640,1320,3
+"Muskogean","Creek","Muskogee","mus","o",460,970,3
+"Altaic","Inner Mongolian","Baarin","mvf","i",340,2278,11
+"Altaic","Inner Mongolian","Baarin","mvf","_",393,2282,11
+"Altaic","Inner Mongolian","Baarin","mvf","e",552,1833,11
+"Altaic","Inner Mongolian","Baarin","mvf","æ",622,1668,11
+"Altaic","Inner Mongolian","Baarin","mvf","a",898,1373,11
+"Altaic","Inner Mongolian","Baarin","mvf","_",582,990,11
+"Altaic","Inner Mongolian","Baarin","mvf","_",493,820,11
+"Altaic","Inner Mongolian","Baarin","mvf","u",320,780,11
+"Altaic","Inner Mongolian","Baarin","mvf","_",447,1198,11
+"Altaic","Inner Mongolian","Baarin","mvf","_",493,963,11
+"Altaic","Inner Mongolian","Baarin","mvf","œ",532,1910,11
+"NiloSaharan","Sar","Douyou","mwm","i",252,2331,6
+"NiloSaharan","Sar","Douyou","mwm","e",346,2250,6
+"NiloSaharan","Sar","Douyou","mwm","a",651,1463,6
+"NiloSaharan","Sar","Douyou","mwm","_",483,1120,6
+"NiloSaharan","Sar","Douyou","mwm","o",370,798,6
+"NiloSaharan","Sar","Douyou","mwm","u",290,723,6
+"MixeZoquean","Ayutla Mixe","","mxp","i",323,2204,7
+"MixeZoquean","Ayutla Mixe","","mxp","e",547,1835,7
+"MixeZoquean","Ayutla Mixe","","mxp","a",633,1552,7
+"MixeZoquean","Ayutla Mixe","","mxp","_",614,1364,7
+"MixeZoquean","Ayutla Mixe","","mxp","_",447,953,7
+"MixeZoquean","Ayutla Mixe","","mxp","u",367,836,7
+"MixeZoquean","Ayutla Mixe","","mxp","_",369,1388,7
+"SinoTibetan","Burmese","Standard","mya","e",600,2200,7
+"SinoTibetan","Burmese","Standard","mya","_",666,2132,7
+"SinoTibetan","Burmese","Standard","mya","_",956,1119,7
+"SinoTibetan","Burmese","Standard","mya","_",806,956,7
+"SinoTibetan","Burmese","Standard","mya","o",666,900,7
+"SinoTibetan","Burmese","Standard","mya","u",400,666,7
+"NiloSaharan","Mbay","Moissala","myb","i",328,2520,6
+"NiloSaharan","Mbay","Moissala","myb","e",411,2375,6
+"NiloSaharan","Mbay","Moissala","myb","a",580,1746,6
+"NiloSaharan","Mbay","Moissala","myb","_",535,1271,6
+"NiloSaharan","Mbay","Moissala","myb","o",401,931,6
+"NiloSaharan","Mbay","Moissala","myb","u",336,863,6
+"AfroAsiatic","Bambassi","","myf","i",340,2105,5
+"AfroAsiatic","Bambassi","","myf","e",505,1895,5
+"AfroAsiatic","Bambassi","","myf","a",655,1400,5
+"AfroAsiatic","Bambassi","","myf","o",460,1005,5
+"AfroAsiatic","Bambassi","","myf","u",310,1005,5
+"Tupi","Munduruku","","myu","i",327,2467,5
+"Tupi","Munduruku","","myu","e",504,2212,5
+"Tupi","Munduruku","","myu","a",705,1481,5
+"Tupi","Munduruku","","myu","o",450,894,5
+"Tupi","Munduruku","","myu","_",480,1387,5
+"Nambikwaran","Nambikwara","","nab","i",250,2093,5
+"Nambikwaran","Nambikwara","","nab","e",500,1930,5
+"Nambikwaran","Nambikwara","","nab","a",784,1381,5
+"Nambikwaran","Nambikwara","","nab","o",488,800,5
+"Nambikwaran","Nambikwara","","nab","u",366,890,5
+"SinoTibetan","Min Taiwanese","Nan (Southern)","nan","i",282,2368,5
+"SinoTibetan","Min Taiwanese","Nan (Southern)","nan","e",392,2258,5
+"SinoTibetan","Min Taiwanese","Nan (Southern)","nan","a",816,1238,5
+"SinoTibetan","Min Taiwanese","Nan (Southern)","nan","_",474,747,5
+"SinoTibetan","Min Taiwanese","Nan (Southern)","nan","u",313,658,5
+"IndoEuropean","Neapolitan","Naples","nap","i",274,2475,7
+"IndoEuropean","Neapolitan","Naples","nap","e",340,2239,7
+"IndoEuropean","Neapolitan","Naples","nap","_",491,1999,7
+"IndoEuropean","Neapolitan","Naples","nap","a",740,1282,7
+"IndoEuropean","Neapolitan","Naples","nap","_",517,961,7
+"IndoEuropean","Neapolitan","Naples","nap","o",367,861,7
+"IndoEuropean","Neapolitan","Naples","nap","u",322,842,7
+"DeneYeniseian","Navajo","","nav","i",250,2250,4
+"DeneYeniseian","Navajo","","nav","e",570,1880,4
+"DeneYeniseian","Navajo","","nav","_",750,1200,4
+"DeneYeniseian","Navajo","","nav","o",370,780,4
+"DeneYeniseian","Navajo","","nav","_",330,1920,4
+"DeneYeniseian","Navajo","","nav","_",680,1780,4
+"DeneYeniseian","Navajo","","nav","a",730,1350,4
+"DeneYeniseian","Navajo","","nav","_",480,980,4
+"NigerCongo","Nawuri","","naw","i",280,2050,9
+"NigerCongo","Nawuri","","naw","e",350,2070,9
+"NigerCongo","Nawuri","","naw","_",350,2040,9
+"NigerCongo","Nawuri","","naw","_",540,1900,9
+"NigerCongo","Nawuri","","naw","a",855,1420,9
+"NigerCongo","Nawuri","","naw","_",545,860,9
+"NigerCongo","Nawuri","","naw","_",405,780,9
+"NigerCongo","Nawuri","","naw","o",365,870,9
+"NigerCongo","Nawuri","","naw","u",315,820,9
+"NigerCongo","Ndebele","","nde","i",278,2052,5
+"NigerCongo","Ndebele","","nde","e",350,1915,5
+"NigerCongo","Ndebele","","nde","a",650,1287,5
+"NigerCongo","Ndebele","","nde","o",395,777,5
+"NigerCongo","Ndebele","","nde","u",300,612,5
+"IndoEuropean","Low German","Eastphalian","nds","i",237,2320,7
+"IndoEuropean","Low German","Eastphalian","nds","e",347,2177,7
+"IndoEuropean","Low German","Eastphalian","nds","_",540,1867,7
+"IndoEuropean","Low German","Eastphalian","nds","a",693,1140,7
+"IndoEuropean","Low German","Eastphalian","nds","_",532,943,7
+"IndoEuropean","Low German","Eastphalian","nds","o",400,925,7
+"IndoEuropean","Low German","Eastphalian","nds","u",285,687,7
+"NigerCongo","Ndut","","ndv","i",312,2010,9
+"NigerCongo","Ndut","","ndv","_",395,2156,9
+"NigerCongo","Ndut","","ndv","e",391,1859,9
+"NigerCongo","Ndut","","ndv","_",546,1937,9
+"NigerCongo","Ndut","","ndv","a",765,1422,9
+"NigerCongo","Ndut","","ndv","_",562,1000,9
+"NigerCongo","Ndut","","ndv","_",437,857,9
+"NigerCongo","Ndut","","ndv","u",312,884,9
+"NigerCongo","Ndut","","ndv","_",500,1462,9
+"NigerCongo","Ndut","","ndv","i",362,2012,9
+"NigerCongo","Ndut","","ndv","_",449,2075,9
+"NigerCongo","Ndut","","ndv","e",419,1859,9
+"NigerCongo","Ndut","","ndv","_",580,1857,9
+"NigerCongo","Ndut","","ndv","a",750,1458,9
+"NigerCongo","Ndut","","ndv","_",593,1218,9
+"NigerCongo","Ndut","","ndv","_",515,925,9
+"NigerCongo","Ndut","","ndv","u",312,859,9
+"NigerCongo","Ndut","","ndv","_",507,1352,9
+"IndoEuropean","Nepali","Eastern","nep","i",280,2254,6
+"IndoEuropean","Nepali","Eastern","nep","e",366,2044,6
+"IndoEuropean","Nepali","Eastern","nep","a",838,1372,6
+"IndoEuropean","Nepali","Eastern","nep","_",658,1054,6
+"IndoEuropean","Nepali","Eastern","nep","o",372,782,6
+"IndoEuropean","Nepali","Eastern","nep","u",302,770,6
+"NigerCongo","Ngwe","","new","i",263,2367,13
+"NigerCongo","Ngwe","","new","e",358,2286,13
+"NigerCongo","Ngwe","","new","_",680,2094,13
+"NigerCongo","Ngwe","","new","a",782,1768,13
+"NigerCongo","Ngwe","","new","_",749,1233,13
+"NigerCongo","Ngwe","","new","_",503,756,13
+"NigerCongo","Ngwe","","new","o",372,775,13
+"NigerCongo","Ngwe","","new","u",330,680,13
+"NigerCongo","Ngwe","","new","y",238,2195,13
+"NigerCongo","Ngwe","","new","_",405,1703,13
+"NigerCongo","Ngwe","","new","_",541,1746,13
+"NigerCongo","Ngwe","","new","_",492,1441,13
+"NigerCongo","Ngwe","","new","_",519,1303,13
+"Australian","Dalabon","","ngk","i",378,2081,6
+"Australian","Dalabon","","ngk","e",505,1527,6
+"Australian","Dalabon","","ngk","a",694,1456,6
+"Australian","Dalabon","","ngk","o",532,1083,6
+"Australian","Dalabon","","ngk","u",422,1127,6
+"Australian","Dalabon","","ngk","_",467,1339,6
+"Austronesian","Nias","","nia","i",260,2558,6
+"Austronesian","Nias","","nia","e",429,2444,6
+"Austronesian","Nias","","nia","a",742,1524,6
+"Austronesian","Nias","","nia","o",467,792,6
+"Austronesian","Nias","","nia"," u",268,717,6
+"Austronesian","Nias","","nia","_",399,1555,6
+"SinoTibetan","Angami","","njm","i",301,2403,6
+"SinoTibetan","Angami","","njm","e",520,2054,6
+"SinoTibetan","Angami","","njm","a",749,1187,6
+"SinoTibetan","Angami","","njm","o",470,864,6
+"SinoTibetan","Angami","","njm"," u",331,941,6
+"SinoTibetan","Angami","","njm","_",457,1438,6
+"SinoTibetan","Ao","Mongsen","njo","i",301,2293,5
+"SinoTibetan","Ao","Mongsen","njo","a",641,1189,5
+"SinoTibetan","Ao","Mongsen","njo","u",342,658,5
+"SinoTibetan","Ao","Mongsen","njo","_",310,1691,5
+"SinoTibetan","Ao","Mongsen","njo","_",472,1643,5
+"IndoEuropean","Dutch","","nld","i",295,2419,12
+"IndoEuropean","Dutch","","nld","_",391,2201,12
+"IndoEuropean","Dutch","","nld","e",409,2139,12
+"IndoEuropean","Dutch","","nld","_",596,1931,12
+"IndoEuropean","Dutch","","nld","a",721,1368,12
+"IndoEuropean","Dutch","","nld","_",672,1239,12
+"IndoEuropean","Dutch","","nld","_",534,969,12
+"IndoEuropean","Dutch","","nld","o",432,868,12
+"IndoEuropean","Dutch","","nld","u",317,778,12
+"IndoEuropean","Dutch","","nld","y",295,1831,12
+"IndoEuropean","Dutch","","nld","ø",445,1619,12
+"IndoEuropean","Dutch","","nld","œ",455,1544,12
+"Khoisan","!Xoo","Lone Tree","nmn","i",255,2530,5
+"Khoisan","!Xoo","Lone Tree","nmn","e",405,2205,5
+"Khoisan","!Xoo","Lone Tree","nmn","a",685,1435,5
+"Khoisan","!Xoo","Lone Tree","nmn","o",450,975,5
+"Khoisan","!Xoo","Lone Tree","nmn","u",290,840,5
+"NigerCongo","Kinande","","nnb","i",261,2234,10
+"NigerCongo","Kinande","","nnb","e",315,2023,10
+"NigerCongo","Kinande","","nnb","_",365,1819,10
+"NigerCongo","Kinande","","nnb","_",472,1805,10
+"NigerCongo","Kinande","","nnb","a",651,1474,10
+"NigerCongo","Kinande","","nnb","_",447,1017,10
+"NigerCongo","Kinande","","nnb","o",322,1149,10
+"NigerCongo","Kinande","","nnb","_",318,965,10
+"NigerCongo","Kinande","","nnb","u",262,917,10
+"NigerCongo","Kinande","","nnb","_",484,1651,10
+"IndoEuropean","Norwegian","Standard","nor","i",309,2281,9
+"IndoEuropean","Norwegian","Standard","nor","e",404,2167,9
+"IndoEuropean","Norwegian","Standard","nor","æ",703,1498,9
+"IndoEuropean","Norwegian","Standard","nor","_",635,1053,9
+"IndoEuropean","Norwegian","Standard","nor","o",461,906,9
+"IndoEuropean","Norwegian","Standard","nor","u",348,874,9
+"IndoEuropean","Norwegian","Standard","nor","y",302,2153,9
+"IndoEuropean","Norwegian","Standard","nor","ø",437,1561,9
+"IndoEuropean","Norwegian","Standard","nor","_",330,1724,9
+"SinoTibetan","Anong","Mugujia","nun","i",356,2096,6
+"SinoTibetan","Anong","Mugujia","nun","_",452,1846,6
+"SinoTibetan","Anong","Mugujia","nun","_",600,1044,6
+"SinoTibetan","Anong","Mugujia","nun","o",416,753,6
+"SinoTibetan","Anong","Mugujia","nun","u",379,967,6
+"SinoTibetan","Anong","Mugujia","nun","_",380,1849,6
+"IndoEuropean","Occitan","Roergue Lengadocian","oci","i",238,2390,7
+"IndoEuropean","Occitan","Roergue Lengadocian","oci","e",304,2103,7
+"IndoEuropean","Occitan","Roergue Lengadocian","oci","_",419,1849,7
+"IndoEuropean","Occitan","Roergue Lengadocian","oci","a",854,1437,7
+"IndoEuropean","Occitan","Roergue Lengadocian","oci","_",494,999,7
+"IndoEuropean","Occitan","Roergue Lengadocian","oci","u",273,887,7
+"IndoEuropean","Occitan","Roergue Lengadocian","oci","y",271,1763,7
+"NigerCongo","Khana","","ogo","i",280,2000,7
+"NigerCongo","Khana","","ogo","e",337,1847,7
+"NigerCongo","Khana","","ogo","_",493,1760,7
+"NigerCongo","Khana","","ogo","a",681,1324,7
+"NigerCongo","Khana","","ogo","_",532,1013,7
+"NigerCongo","Khana","","ogo","o",344,939,7
+"NigerCongo","Khana","","ogo","u",283,818,7
+"IndoEuropean","Oriya","Standard","ori","i",250,2000,6
+"IndoEuropean","Oriya","Standard","ori","e",300,1700,6
+"IndoEuropean","Oriya","Standard","ori","a",650,1200,6
+"IndoEuropean","Oriya","Standard","ori","_",400,750,6
+"IndoEuropean","Oriya","Standard","ori","o",300,600,6
+"IndoEuropean","Oriya","Standard","ori","u",250,600,6
+"IndoEuropean","Punjabi","Doabi","pan","i",265,2637,7
+"IndoEuropean","Punjabi","Doabi","pan","e",321,2366,7
+"IndoEuropean","Punjabi","Doabi","pan","_",663,1930,7
+"IndoEuropean","Punjabi","Doabi","pan","a",691,1061,7
+"IndoEuropean","Punjabi","Doabi","pan","o",436,1136,7
+"IndoEuropean","Punjabi","Doabi","pan","u",396,976,7
+"IndoEuropean","Punjabi","Doabi","pan","_",339,1878,3
+"IndoEuropean","Punjabi","Doabi","pan","_",577,1555,3
+"IndoEuropean","Punjabi","Doabi","pan","_",429,1066,3
+"ChapacuraWanham","Wari'","","pav","i",325,2170,6
+"ChapacuraWanham","Wari'","","pav","e",475,1985,6
+"ChapacuraWanham","Wari'","","pav","a",745,1545,6
+"ChapacuraWanham","Wari'","","pav","o",465,975,6
+"ChapacuraWanham","Wari'","","pav","y",355,2005,6
+"ChapacuraWanham","Wari'","","pav","ø",435,1900,6
+"IndoEuropean","Pashto","Northern","pbu","i",304,2034,3
+"IndoEuropean","Pashto","Northern","pbu","a",655,1290,3
+"IndoEuropean","Pashto","Northern","pbu","u",315,981,3
+"IndoEuropean","Pashto","Northern","pbu","i",324,2018,6
+"IndoEuropean","Pashto","Northern","pbu","e",405,1951,6
+"IndoEuropean","Pashto","Northern","pbu","a",626,1433,6
+"IndoEuropean","Pashto","Northern","pbu","o",401,992,6
+"IndoEuropean","Pashto","Northern","pbu","u",271,822,6
+"IndoEuropean","Pashto","Northern","pbu","_",418,1607,6
+"OtoManguean","Chichimeca","","pei","i",268,2175,7
+"OtoManguean","Chichimeca","","pei","e",455,1968,7
+"OtoManguean","Chichimeca","","pei","æ",689,1797,7
+"OtoManguean","Chichimeca","","pei","a",707,1434,7
+"OtoManguean","Chichimeca","","pei","o",478,951,7
+"OtoManguean","Chichimeca","","pei","u",294,728,7
+"OtoManguean","Chichimeca","","pei","y",293,2002,7
+"IndoEuropean","Persian","","pes","i",255,2244,6
+"IndoEuropean","Persian","","pes","e",480,1891,6
+"IndoEuropean","Persian","","pes","æ",767,1401,6
+"IndoEuropean","Persian","","pes","a",617,1031,6
+"IndoEuropean","Persian","","pes","o",441,849,6
+"IndoEuropean","Persian","","pes","u",297,734,6
+"IndoEuropean","Polish","Standard","pol","i",305,2086,6
+"IndoEuropean","Polish","Standard","pol","e",600,1607,6
+"IndoEuropean","Polish","Standard","pol","a",732,1300,6
+"IndoEuropean","Polish","Standard","pol","o",576,1092,6
+"IndoEuropean","Polish","Standard","pol","u",389,1025,6
+"IndoEuropean","Polish","Standard","pol","_",422,1722,6
+"IndoEuropean","Portuguese","Blumenau Brazilian","por","i",337,2118,7
+"IndoEuropean","Portuguese","Blumenau Brazilian","por","e",433,1875,7
+"IndoEuropean","Portuguese","Blumenau Brazilian","por","_",585,1659,7
+"IndoEuropean","Portuguese","Blumenau Brazilian","por","a",656,1306,7
+"IndoEuropean","Portuguese","Blumenau Brazilian","por","_",588,1024,7
+"IndoEuropean","Portuguese","Blumenau Brazilian","por","o",428,878,7
+"IndoEuropean","Portuguese","Blumenau Brazilian","por","u",330,783,7
+"Austronesian","Paici","","pri","i",280,2106,10
+"Austronesian","Paici","","pri","e",344,2091,10
+"Austronesian","Paici","","pri","_",525,1876,10
+"Austronesian","Paici","","pri","a",793,1415,10
+"Austronesian","Paici","","pri","_",604,971,10
+"Austronesian","Paici","","pri","o",383,781,10
+"Austronesian","Paici","","pri","u",318,787,10
+"Austronesian","Paici","","pri","_",333,1496,10
+"Austronesian","Paici","","pri","_",422,1513,10
+"Austronesian","Paici","","pri","_",573,1500,10
+"AustroAsiatic","Wa","Kunming","prk","i",315,2488,9
+"AustroAsiatic","Wa","Kunming","prk","e",366,2355,9
+"AustroAsiatic","Wa","Kunming","prk","_",589,2083,9
+"AustroAsiatic","Wa","Kunming","prk","a",750,1265,9
+"AustroAsiatic","Wa","Kunming","prk","_",525,926,9
+"AustroAsiatic","Wa","Kunming","prk","o",495,983,9
+"AustroAsiatic","Wa","Kunming","prk","u",334,784,9
+"AustroAsiatic","Wa","Kunming","prk","_",338,1703,9
+"AustroAsiatic","Wa","Kunming","prk","_",464,1494,9
+"IndoEuropean","Dari","","prs","i",264,2125,8
+"IndoEuropean","Dari","","prs","_",398,2049,8
+"IndoEuropean","Dari","","prs","e",422,1874,8
+"IndoEuropean","Dari","","prs","a",695,1459,8
+"IndoEuropean","Dari","","prs","_",558,1084,8
+"IndoEuropean","Dari","","prs","o",441,1024,8
+"IndoEuropean","Dari","","prs","_",408,903,8
+"IndoEuropean","Dari","","prs","u",279,802,8
+"Austronesian","Paiwan","","pwn","i",419,2185,4
+"Austronesian","Paiwan","","pwn","a",812,1235,4
+"Austronesian","Paiwan","","pwn","u",470,809,4
+"Austronesian","Paiwan","","pwn","_",605,1630,4
+"Quechuan","Quichua","Otavalo","que","_",339,2208,3
+"Quechuan","Quichua","Otavalo","que","a",653,1585,3
+"Quechuan","Quichua","Otavalo","que","_",435,1090,3
+"Quechuan","Quechua","Cusco","quz","i",316,2246,5
+"Quechuan","Quechua","Cusco","quz","e",417,1991,5
+"Quechuan","Quechua","Cusco","quz","a",698,1485,5
+"Quechuan","Quechua","Cusco","quz","o",506,1077,5
+"Quechuan","Quechua","Cusco","quz","u",370,1192,5
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","i",330,2380,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","_",445,2020,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","e",445,2125,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","_",630,1830,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","æ",710,1635,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","_",705,1335,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","_",600,1180,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","o",515,1010,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","_",425,1125,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","u",390,1070,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","y",335,1930,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","_",425,1753,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","ø",495,1660,14
+"IndoEuropean","Norman","Liesville-sur-Douve","roa","œ",530,1440,14
+"IndoEuropean","Romanian","Stadard","ron","i",232,2123,7
+"IndoEuropean","Romanian","Stadard","ron","e",443,1823,7
+"IndoEuropean","Romanian","Stadard","ron","a",657,1217,7
+"IndoEuropean","Romanian","Stadard","ron","o",465,805,7
+"IndoEuropean","Romanian","Stadard","ron","u",260,695,7
+"IndoEuropean","Romanian","Stadard","ron","_",260,1533,7
+"IndoEuropean","Romanian","Stadard","ron","_",495,1388,7
+"IndoEuropean","Megleno-Romanian","","ruq","i",319,2233,10
+"IndoEuropean","Megleno-Romanian","","ruq","e",400,2007,10
+"IndoEuropean","Megleno-Romanian","","ruq","_",519,1971,10
+"IndoEuropean","Megleno-Romanian","","ruq","a",806,1504,10
+"IndoEuropean","Megleno-Romanian","","ruq","_",610,1279,10
+"IndoEuropean","Megleno-Romanian","","ruq","o",449,991,10
+"IndoEuropean","Megleno-Romanian","","ruq","u",323,781,10
+"IndoEuropean","Megleno-Romanian","","ruq","_",325,1466,10
+"IndoEuropean","Megleno-Romanian","","ruq","_",430,1534,10
+"IndoEuropean","Megleno-Romanian","","ruq","_",491,1457,10
+"IndoEuropean","Russian","","rus","i",350,2460,6
+"IndoEuropean","Russian","","rus","e",510,2050,6
+"IndoEuropean","Russian","","rus","a",690,1510,6
+"IndoEuropean","Russian","","rus","o",470,1025,6
+"IndoEuropean","Russian","","rus","u",380,825,6
+"IndoEuropean","Russian","","rus","_",380,1825,6
+"NiloSaharan","Kaba","Paoua","sbz","i",235,2031,6
+"NiloSaharan","Kaba","Paoua","sbz","e",314,2010,6
+"NiloSaharan","Kaba","Paoua","sbz","a",796,1393,6
+"NiloSaharan","Kaba","Paoua","sbz","_",540,1150,6
+"NiloSaharan","Kaba","Paoua","sbz","o",360,1036,6
+"NiloSaharan","Kaba","Paoua","sbz","u",269,1088,6
+"IndoEuropean","Sicilian","Sallentinian>Lecce","scn","i",336,2278,5
+"IndoEuropean","Sicilian","Sallentinian>Lecce","scn","e",464,1876,5
+"IndoEuropean","Sicilian","Sallentinian>Lecce","scn","a",616,1362,5
+"IndoEuropean","Sicilian","Sallentinian>Lecce","scn","o",482,1024,5
+"IndoEuropean","Sicilian","Sallentinian>Lecce","scn","u",373,945,5
+"AfroAsiatic","Tachelhit","","shi","i",350,1880,3
+"AfroAsiatic","Tachelhit","","shi","a",570,1530,3
+"AfroAsiatic","Tachelhit","","shi","u",390,1150,3
+"IndoEuropean","Albanian","Central Standard","shq","i",342,2074,7
+"IndoEuropean","Albanian","Central Standard","shq","e",464,1732,7
+"IndoEuropean","Albanian","Central Standard","shq","a",611,1250,7
+"IndoEuropean","Albanian","Central Standard","shq","o",474,934,7
+"IndoEuropean","Albanian","Central Standard","shq","u",378,812,7
+"IndoEuropean","Albanian","Central Standard","shq","y",315,1624,7
+"IndoEuropean","Albanian","Central Standard","shq","_",506,1309,7
+"Tupian","Sakurabiat","","skf","i",309,2475,5
+"Tupian","Sakurabiat","","skf","_",548,2062,5
+"Tupian","Sakurabiat","","skf","a",686,1345,5
+"Tupian","Sakurabiat","","skf","o",408,980,5
+"Tupian","Sakurabiat","","skf","_",356,1945,5
+"Tupian","Sakurabiat","","skf","i",325,2417,5
+"Tupian","Sakurabiat","","skf","_",535,2010,5
+"Tupian","Sakurabiat","","skf","a",681,1327,5
+"Tupian","Sakurabiat","","skf","o",411,959,5
+"Tupian","Sakurabiat","","skf","_",380,1980,5
+"IndoEuropean","Slovak","","slk","i",225,2125,5
+"IndoEuropean","Slovak","","slk","e",417,1700,5
+"IndoEuropean","Slovak","","slk","a",675,1242,5
+"IndoEuropean","Slovak","","slk","o",383,817,5
+"IndoEuropean","Slovak","","slk","u",250,750,5
+"IndoEuropean","Slovak","","slk","i",220,2000,6
+"IndoEuropean","Slovak","","slk","e",375,1700,6
+"IndoEuropean","Slovak","","slk","æ",600,1538,6
+"IndoEuropean","Slovak","","slk","a",600,1165,6
+"IndoEuropean","Slovak","","slk","o",400,890,6
+"IndoEuropean","Slovak","","slk","u",225,750,6
+"IndoEuropean","Slovenian","Standard","slv","i",282,2174,8
+"IndoEuropean","Slovenian","Standard","slv","e",362,2097,8
+"IndoEuropean","Slovenian","Standard","slv","_",528,1741,8
+"IndoEuropean","Slovenian","Standard","slv","a",698,1217,8
+"IndoEuropean","Slovenian","Standard","slv","_",579,977,8
+"IndoEuropean","Slovenian","Standard","slv","o",421,806,8
+"IndoEuropean","Slovenian","Standard","slv","u",321,855,8
+"IndoEuropean","Slovenian","Standard","slv","_",495,1335,8
+"IndoEuropean","Slovenian","Standard","slv","i",288,2148,5
+"IndoEuropean","Slovenian","Standard","slv","_",546,1739,5
+"IndoEuropean","Slovenian","Standard","slv","a",666,1252,5
+"IndoEuropean","Slovenian","Standard","slv","_",594,1010,5
+"IndoEuropean","Slovenian","Standard","slv","u",342,834,5
+"NigerCongo","Shona","","sna","i",260,1960,5
+"NigerCongo","Shona","","sna","e",330,1887,5
+"NigerCongo","Shona","","sna","a",668,1315,5
+"NigerCongo","Shona","","sna","o",330,807,5
+"NigerCongo","Shona","","sna","u",270,750,5
+"NigerCongo","Sele","","snw","i",293,2025,7
+"NigerCongo","Sele","","snw","e",363,1913,7
+"NigerCongo","Sele","","snw","_",494,1906,7
+"NigerCongo","Sele","","snw","a",809,1477,7
+"NigerCongo","Sele","","snw","_",513,1035,7
+"NigerCongo","Sele","","snw","o",367,908,7
+"NigerCongo","Sele","","snw","u",300,887,7
+"AfroAsiatic","Somali","Standard","som","",269,2175,10
+"AfroAsiatic","Somali","Standard","som","",324,2319,10
+"AfroAsiatic","Somali","Standard","som","",376,1889,10
+"AfroAsiatic","Somali","Standard","som","",513,1893,10
+"AfroAsiatic","Somali","Standard","som","",617,1583,10
+"AfroAsiatic","Somali","Standard","som","",741,1380,10
+"AfroAsiatic","Somali","Standard","som","",531,1044,10
+"AfroAsiatic","Somali","Standard","som","",351,1019,10
+"AfroAsiatic","Somali","Standard","som","",316,1008,10
+"AfroAsiatic","Somali","Standard","som","",302,1002,10
+"AfroAsiatic","Somali","Standard","som","",279,2162,10
+"AfroAsiatic","Somali","Standard","som","",427,1958,10
+"AfroAsiatic","Somali","Standard","som","",447,2125,10
+"AfroAsiatic","Somali","Standard","som","",710,1843,10
+"AfroAsiatic","Somali","Standard","som","",676,1409,10
+"AfroAsiatic","Somali","Standard","som","",513,960,10
+"AfroAsiatic","Somali","Standard","som","",417,907,10
+"AfroAsiatic","Somali","Standard","som","",376,1117,10
+"AfroAsiatic","Somali","Standard","som","",331,1072,10
+"NigerCongo","Sotho","Southern","sot","i",276,2264,9
+"NigerCongo","Sotho","Southern","sot","e",385,2426,9
+"NigerCongo","Sotho","Southern","sot","__",416,2367,9
+"NigerCongo","Sotho","Southern","sot","_",546,2258,9
+"NigerCongo","Sotho","Southern","sot","a",884,1645,9
+"NigerCongo","Sotho","Southern","sot","_",564,1177,9
+"NigerCongo","Sotho","Southern","sot","__",414,974,9
+"NigerCongo","Sotho","Southern","sot","o",393,928,9
+"NigerCongo","Sotho","Southern","sot","u",255,1016,9
+"IndoEuropean","Spanish","Canaria","spa","i",276,2057,5
+"IndoEuropean","Spanish","Canaria","spa","e",369,1608,5
+"IndoEuropean","Spanish","Canaria","spa","a",545,1369,5
+"IndoEuropean","Spanish","Canaria","spa","o",373,1007,5
+"IndoEuropean","Spanish","Canaria","spa","u",281,703,5
+"IndoEuropean","Sardinian","Campadinese","sro","i",290,2182,7
+"IndoEuropean","Sardinian","Campadinese","sro","e",380,2035,7
+"IndoEuropean","Sardinian","Campadinese","sro","_",460,1970,7
+"IndoEuropean","Sardinian","Campadinese","sro","a",615,1455,7
+"IndoEuropean","Sardinian","Campadinese","sro","_",535,1042,7
+"IndoEuropean","Sardinian","Campadinese","sro","o",437,915,7
+"IndoEuropean","Sardinian","Campadinese","sro","u",332,785,7
+"NigerCongo","Siswati","","ssw","i",343,2036,5
+"NigerCongo","Siswati","","ssw","e",450,2028,5
+"NigerCongo","Siswati","","ssw","a",695,1350,5
+"NigerCongo","Siswati","","ssw","o",454,887,5
+"NigerCongo","Siswati","","ssw","u",324,786,5
+"Austronesian","Sundenese","","sun","i",329,2310,7
+"Austronesian","Sundenese","","sun","e",632,2008,7
+"Austronesian","Sundenese","","sun","a",811,1413,7
+"Austronesian","Sundenese","","sun","o",616,1107,7
+"Austronesian","Sundenese","","sun","u",347,1087,7
+"Austronesian","Sundenese","","sun","_",441,1348,7
+"Austronesian","Sundenese","","sun","_",620,1404,7
+"IndoEuropean","Swedish","Helsinki","swe","i",319,2228,8
+"IndoEuropean","Swedish","Helsinki","swe","e",446,1964,8
+"IndoEuropean","Swedish","Helsinki","swe","a",676,1167,8
+"IndoEuropean","Swedish","Helsinki","swe","o",448,890,8
+"IndoEuropean","Swedish","Helsinki","swe","u",328,763,8
+"IndoEuropean","Swedish","Helsinki","swe","y",318,1975,8
+"IndoEuropean","Swedish","Helsinki","swe","ø",433,1795,8
+"IndoEuropean","Swedish","Helsinki","swe","_",343,1128,8
+"IndoEuropean","Swedish","Helsinki","swe","_",336,2137,8
+"IndoEuropean","Swedish","Helsinki","swe","_",444,1915,8
+"IndoEuropean","Swedish","Helsinki","swe","a",666,1201,8
+"IndoEuropean","Swedish","Helsinki","swe","_",469,980,8
+"IndoEuropean","Swedish","Helsinki","swe","u",347,861,8
+"IndoEuropean","Swedish","Helsinki","swe","_",334,1859,8
+"IndoEuropean","Swedish","Helsinki","swe","ø",445,1712,8
+"IndoEuropean","Swedish","Helsinki","swe","_",364,1202,8
+"Isolate","Ticuna","","tca","i",358,2450,7
+"Isolate","Ticuna","","tca","_",467,2150,7
+"Isolate","Ticuna","","tca","a",775,1575,7
+"Isolate","Ticuna","","tca","_",542,1225,7
+"Isolate","Ticuna","","tca","o",442,792,7
+"Isolate","Ticuna","","tca","u",358,825,7
+"Isolate","Ticuna","","tca","_",408,1540,7
+"Dravidian","Toda","","tcx","i",363,1962,9
+"Dravidian","Toda","","tcx","e",471,1864,9
+"Dravidian","Toda","","tcx","æ",684,1679,9
+"Dravidian","Toda","","tcx","_",673,1366,9
+"Dravidian","Toda","","tcx","o",537,1221,9
+"Dravidian","Toda","","tcx","u",368,1040,9
+"Dravidian","Toda","","tcx","y",373,1836,9
+"Dravidian","Toda","","tcx","_",461,1530,9
+"Dravidian","Toda","","tcx","_",412,1485,9
+"Totonacan","Huehuetla Tepehua","","tee","i",406,2063,5
+"Totonacan","Huehuetla Tepehua","","tee","e",499,1793,5
+"Totonacan","Huehuetla Tepehua","","tee","a",612,1394,5
+"Totonacan","Huehuetla Tepehua","","tee","o",525,1077,5
+"Totonacan","Huehuetla Tepehua","","tee","u",426,1140,5
+"Dravidian","Telugu","","tel","i",325,2260,5
+"Dravidian","Telugu","","tel","e",470,1883,5
+"Dravidian","Telugu","","tel","a",710,1240,5
+"Dravidian","Telugu","","tel","o",486,1000,5
+"Dravidian","Telugu","","tel","u",348,923,5
+"Dravidian","Telugu","","tel","i",365,2116,6
+"Dravidian","Telugu","","tel","e",517,1796,6
+"Dravidian","Telugu","","tel","æ",575,1744,6
+"Dravidian","Telugu","","tel","a",606,1473,6
+"Dravidian","Telugu","","tel","o",476,1133,6
+"Dravidian","Telugu","","tel","u",370,1066,6
+"Kradai","Thai","Standard","tha","i",352,2400,9
+"Kradai","Thai","Standard","tha","e",505,2219,9
+"Kradai","Thai","Standard","tha","æ",744,1926,9
+"Kradai","Thai","Standard","tha","a",796,1585,9
+"Kradai","Thai","Standard","tha","_",742,1176,9
+"Kradai","Thai","Standard","tha","o",502,921,9
+"Kradai","Thai","Standard","tha","u",374,809,9
+"Kradai","Thai","Standard","tha","_",393,1611,9
+"Kradai","Thai","Standard","tha","_",545,1480,9
+"Kradai","Thai","Standard","tha","i",299,2248,9
+"Kradai","Thai","Standard","tha","e",442,2015,9
+"Kradai","Thai","Standard","tha","æ",648,1837,9
+"Kradai","Thai","Standard","tha","a",694,1298,9
+"Kradai","Thai","Standard","tha","_",610,987,9
+"Kradai","Thai","Standard","tha","o",480,890,9
+"Kradai","Thai","Standard","tha","u",366,740,9
+"Kradai","Thai","Standard","tha","_",417,1430,9
+"Kradai","Thai","Standard","tha","_",510,1290,9
+"Kradai","Thai","Standard","tha","i",367,2117,9
+"Kradai","Thai","Standard","tha","e",461,1913,9
+"Kradai","Thai","Standard","tha","æ",648,1672,9
+"Kradai","Thai","Standard","tha","a",692,1286,9
+"Kradai","Thai","Standard","tha","_",620,992,9
+"Kradai","Thai","Standard","tha","o",494,866,9
+"Kradai","Thai","Standard","tha","u",357,723,9
+"Kradai","Thai","Standard","tha","_",403,1299,9
+"Kradai","Thai","Standard","tha","_",536,1205,9
+"NigerCongo","Lubwisi","","tlj","i",295,2206,10
+"NigerCongo","Lubwisi","","tlj","e",396,2030,10
+"NigerCongo","Lubwisi","","tlj","_",409,1990,10
+"NigerCongo","Lubwisi","","tlj","_",603,1787,10
+"NigerCongo","Lubwisi","","tlj","a",761,1412,10
+"NigerCongo","Lubwisi","","tlj","_",591,1052,10
+"NigerCongo","Lubwisi","","tlj","o",450,1019,10
+"NigerCongo","Lubwisi","","tlj","_",403,781,10
+"NigerCongo","Lubwisi","","tlj","u",332,943,10
+"NigerCongo","Lubwisi","","tlj","_",689,1400,10
+"Totonacan","Totonac","Papantla","top","i",348,2226,3
+"Totonacan","Totonac","Papantla","top","a",686,1495,3
+"Totonacan","Totonac","Papantla","top","u",365,960,3
+"Austronesian","Truku","Hualian","trv","i",354,2294,6
+"Austronesian","Truku","Hualian","trv","e",415,2168,6
+"Austronesian","Truku","Hualian","trv","a",792,1320,6
+"Austronesian","Truku","Hualian","trv","o",406,990,6
+"Austronesian","Truku","Hualian","trv","u",370,915,6
+"Austronesian","Truku","Hualian","trv","_",423,1627,6
+"Austronesian","Tausug","Sulu","tsg","i",395,2224,3
+"Austronesian","Tausug","Sulu","tsg","a",791,1379,3
+"Austronesian","Tausug","Sulu","tsg","u",431,847,3
+"NigerCongo","Setswana","","tsn","i",306,1980,7
+"NigerCongo","Setswana","","tsn","e",372,1898,7
+"NigerCongo","Setswana","","tsn","_",463,1822,7
+"NigerCongo","Setswana","","tsn","a",715,1329,7
+"NigerCongo","Setswana","","tsn","_",477,929,7
+"NigerCongo","Setswana","","tsn","o",392,833,7
+"NigerCongo","Setswana","","tsn","u",293,1015,7
+"Austronesian","Tsou","Tfuea","tsu","i",369,2157,6
+"Austronesian","Tsou","Tfuea","tsu","e",499,2032,6
+"Austronesian","Tsou","Tfuea","tsu","a",805,1385,6
+"Austronesian","Tsou","Tfuea","tsu","o",539,983,6
+"Austronesian","Tsou","Tfuea","tsu","u",407,915,6
+"Austronesian","Tsou","Tfuea","tsu","_",429,1441,6
+"Altaic","Turkish","Istanbul","tur","i",286,2178,8
+"Altaic","Turkish","Istanbul","tur","e",486,1834,8
+"Altaic","Turkish","Istanbul","tur","a",629,1259,8
+"Altaic","Turkish","Istanbul","tur","o",468,1064,8
+"Altaic","Turkish","Istanbul","tur","u",310,909,8
+"Altaic","Turkish","Istanbul","tur","ü(y)",372,1633,8
+"Altaic","Turkish","Istanbul","tur","ö(ø)",544,1517,8
+"Altaic","Turkish","Istanbul","tur","ı(_)",537,1577,8
+"Uralic","Udmurt","Izhevsk","udm","i",333,2083,7
+"Uralic","Udmurt","Izhevsk","udm","_",469,2031,7
+"Uralic","Udmurt","Izhevsk","udm","a",625,1537,7
+"Uralic","Udmurt","Izhevsk","udm","_",480,857,7
+"Uralic","Udmurt","Izhevsk","udm","u",373,730,7
+"Uralic","Udmurt","Izhevsk","udm","_",379,1602,7
+"Uralic","Udmurt","Izhevsk","udm","œ",508,1660,7
+"Altaic","Uyghur","","uig","i",270,2000,8
+"Altaic","Uyghur","","uig","e",367,1833,8
+"Altaic","Uyghur","","uig","_",567,1583,8
+"Altaic","Uyghur","","uig","_",587,1027,8
+"Altaic","Uyghur","","uig","o",437,883,8
+"Altaic","Uyghur","","uig","u",353,820,8
+"Altaic","Uyghur","","uig","y",307,1700,8
+"Altaic","Uyghur","","uig","ø",387,1580,8
+"IndoEuropean","Ukrainian","Standard","ukr","i",280,2300,6
+"IndoEuropean","Ukrainian","Standard","ukr","_",350,2100,6
+"IndoEuropean","Ukrainian","Standard","ukr","_",520,1630,6
+"IndoEuropean","Ukrainian","Standard","ukr","a",750,1200,6
+"IndoEuropean","Ukrainian","Standard","ukr","o",450,750,6
+"IndoEuropean","Ukrainian","Standard","ukr","u",350,600,6
+"IndoEuropean","Urdu","","urd","i",288,2297,7
+"IndoEuropean","Urdu","","urd","e",397,2134,7
+"IndoEuropean","Urdu","","urd","æ",594,1839,7
+"IndoEuropean","Urdu","","urd","a",710,1137,7
+"IndoEuropean","Urdu","","urd","_",541,922,7
+"IndoEuropean","Urdu","","urd","o",427,849,7
+"IndoEuropean","Urdu","","urd","u",343,818,7
+"IndoEuropean","Urdu","","urd","_",418,1967,4
+"IndoEuropean","Urdu","","urd","_",547,1823,4
+"IndoEuropean","Urdu","","urd","_",652,1336,4
+"IndoEuropean","Urdu","","urd","_",423,1026,4
+"IndoEuropean","Venetian","Padua","vec","i",289,2481,7
+"IndoEuropean","Venetian","Padua","vec","e",379,2117,7
+"IndoEuropean","Venetian","Padua","vec","_",473,1959,7
+"IndoEuropean","Venetian","Padua","vec","a",736,1312,7
+"IndoEuropean","Venetian","Padua","vec","_",523,975,7
+"IndoEuropean","Venetian","Padua","vec","o",418,926,7
+"IndoEuropean","Venetian","Padua","vec","u",313,926,7
+"AustroAsiatic","Vietnamese","Hanoi","vie","i",437,2127,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","e",558,1943,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","_",798,2033,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","a:",812,1456,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","a",781,1432,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","_",772,1224,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","o",555,1008,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","u",411,823,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","_",446,1289,11
+"AustroAsiatic","Vietnamese","Hanoi","vie","_:",645,1330,11
+"Uralic","Voru","Navi","vro","",259,2575,14
+"Uralic","Voru","Navi","vro","",311,2437,14
+"Uralic","Voru","Navi","vro","",380,2195,14
+"Uralic","Voru","Navi","vro","",674,1572,14
+"Uralic","Voru","Navi","vro","",639,1054,14
+"Uralic","Voru","Navi","vro","",380,674,14
+"Uralic","Voru","Navi","vro","",311,639,14
+"Uralic","Voru","Navi","vro","",259,553,14
+"Uralic","Voru","Navi","vro","",259,1676,14
+"Uralic","Voru","Navi","vro","",345,1745,14
+"Uralic","Voru","Navi","vro","",397,1711,14
+"Uralic","Voru","Navi","vro","",293,1227,14
+"Uralic","Voru","Navi","vro","",311,1140,14
+"Uralic","Voru","Navi","vro","",414,1123,14
+"NigerCongo","Wolof","Baol","wol","i",240,2500,7
+"NigerCongo","Wolof","Baol","wol","e",400,2200,7
+"NigerCongo","Wolof","Baol","wol","_",540,2150,7
+"NigerCongo","Wolof","Baol","wol","a",610,1400,7
+"NigerCongo","Wolof","Baol","wol","_",500,1100,7
+"NigerCongo","Wolof","Baol","wol","o",425,1000,7
+"NigerCongo","Wolof","Baol","wol","u",250,810,7
+"NigerCongo","Wolof","Baol","wol","i",260,2200,7
+"NigerCongo","Wolof","Baol","wol","e",410,2000,7
+"NigerCongo","Wolof","Baol","wol","_",450,1950,7
+"NigerCongo","Wolof","Baol","wol","a",565,1435,7
+"NigerCongo","Wolof","Baol","wol","_",435,1155,7
+"NigerCongo","Wolof","Baol","wol","u",260,900,7
+"NigerCongo","Wolof","Baol","wol","_",380,1640,7
+"SinoTibetan","Wu","Ningbo","wuu","i",282,2257,9
+"SinoTibetan","Wu","Ningbo","wuu","e",429,2116,9
+"SinoTibetan","Wu","Ningbo","wuu","_",574,1971,9
+"SinoTibetan","Wu","Ningbo","wuu","a",834,1412,9
+"SinoTibetan","Wu","Ningbo","wuu","_",604,1005,9
+"SinoTibetan","Wu","Ningbo","wuu","o",409,864,9
+"SinoTibetan","Wu","Ningbo","wuu","u",330,772,9
+"SinoTibetan","Wu","Ningbo","wuu","y",295,1982,9
+"SinoTibetan","Wu","Ningbo","wuu","ø",386,1793,9
+"Altaic","Oriat","Kalmyk","xal","i",349,2105,8
+"Altaic","Oriat","Kalmyk","xal","e",425,1972,8
+"Altaic","Oriat","Kalmyk","xal","_",636,1694,8
+"Altaic","Oriat","Kalmyk","xal","a",680,1190,8
+"Altaic","Oriat","Kalmyk","xal","o",479,853,8
+"Altaic","Oriat","Kalmyk","xal","u",382,713,8
+"Altaic","Oriat","Kalmyk","xal","y",338,1729,8
+"Altaic","Oriat","Kalmyk","xal","ø",451,1660,8
+"NigerCongo","Gunu","","yas","i",261,2332,7
+"NigerCongo","Gunu","","yas","e",350,2155,7
+"NigerCongo","Gunu","","yas","_",535,2085,7
+"NigerCongo","Gunu","","yas","a",790,1481,7
+"NigerCongo","Gunu","","yas","_",513,1017,7
+"NigerCongo","Gunu","","yas","o",400,1040,7
+"NigerCongo","Gunu","","yas","u",330,795,7
+"NigerCongo","Gunu","","yas","i",265,2340,7
+"NigerCongo","Gunu","","yas","e",330,2120,7
+"NigerCongo","Gunu","","yas","_",500,2055,7
+"NigerCongo","Gunu","","yas","a",720,1575,7
+"NigerCongo","Gunu","","yas","_",490,1038,7
+"NigerCongo","Gunu","","yas","o",386,1095,7
+"NigerCongo","Gunu","","yas","u",270,815,7
+"IndoEuropean","Yiddish","","yid","i",389,2169,5
+"IndoEuropean","Yiddish","","yid","e",406,1886,5
+"IndoEuropean","Yiddish","","yid","a",646,1416,5
+"IndoEuropean","Yiddish","","yid","o",466,1111,5
+"IndoEuropean","Yiddish","","yid","u",345,939,5
+"NigerCongo","Yoruba","","yor","i",304,2205,7
+"NigerCongo","Yoruba","","yor","e",360,2084,7
+"NigerCongo","Yoruba","","yor","_",570,1913,7
+"NigerCongo","Yoruba","","yor","a",803,1444,7
+"NigerCongo","Yoruba","","yor","_",599,1035,7
+"NigerCongo","Yoruba","","yor","o",409,989,7
+"NigerCongo","Yoruba","","yor","u",314,842,7
+"SinoTibetan","Cantonese","Guangzhou","yue","i",280,2116,7
+"SinoTibetan","Cantonese","Guangzhou","yue","_",496,1817,7
+"SinoTibetan","Cantonese","Guangzhou","yue","_",685,1185,7
+"SinoTibetan","Cantonese","Guangzhou","yue","_",475,885,7
+"SinoTibetan","Cantonese","Guangzhou","yue","u",315,685,7
+"SinoTibetan","Cantonese","Guangzhou","yue","y",285,1853,7
+"SinoTibetan","Cantonese","Guangzhou","yue","œ",515,1470,7
+"SinoTibetan","Cantonese","Guangzhou","yue","_",430,1910,4
+"SinoTibetan","Cantonese","Guangzhou","yue","_",635,1325,4
+"SinoTibetan","Cantonese","Guangzhou","yue","_",430,855,4
+"SinoTibetan","Cantonese","Guangzhou","yue","ø",450,1200,4
+"OtoManguean","Juchitan Zapotec","","zai","i",320,2050,5
+"OtoManguean","Juchitan Zapotec","","zai","e",480,2020,5
+"OtoManguean","Juchitan Zapotec","","zai","a",700,1400,5
+"OtoManguean","Juchitan Zapotec","","zai","o",480,850,5
+"OtoManguean","Juchitan Zapotec","","zai","u",340,700,5
